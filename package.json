@@ -1,0 +1,23 @@
+{
+  "name": "slmp3-crawl",
+  "version": "1.0.0",
+  "description": "A Lightweight, Simple and open source search engine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "crawl": "node roboindex.js"
+  },
+  "keywords": [
+    "search",
+    "crawler",
+    "open-source"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}

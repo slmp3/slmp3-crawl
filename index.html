@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>SLMP3 Crawl</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  :root {
+    --bg-color: rgb(255,255,255);
+    --text-color: rgb(0,0,0);
+  }
+
+  [data-theme="dark"] {
+    --bg-color: rgb(0,0,0);
+    --text-color: rgb(255,255,255);
+  }
+
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2rem;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  #search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 2rem 0;
+  }
+
+  #query {
+    width: 50%;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+
+  #search-btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  #results {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  a {
+    color: #1a0dab;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  #theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+/* Line Break */
+  .result {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    max-width: 800px;
+    margin-bottom: 1rem;
+  }
+</style>
+</head>
+<body data-theme="light">
+
+<button id="theme-toggle">Toggle Dark/Light</button>
+<h1>SLMP3 Crawl</h1>
+
+<div id="search-box">
+  <input type="text" id="query" placeholder="Search...">
+  <button id="search-btn">Search</button>
+</div>
+
+<div id="results"></div>
+
+<script>
+const resultsDiv = document.getElementById('results');
+const queryInput = document.getElementById('query');
+const searchBtn = document.getElementById('search-btn');
+
+// Load the pages from JSON once
+let pages = [];
+
+async function loadPages() {
+  try {
+    const response = await fetch('./index.json');
+    pages = await response.json();
+  } catch (err) {
+    resultsDiv.innerHTML = `<p>Error loading search data: ${err}</p>`;
+  }
+}
+
+loadPages();
+
+// Run search only when clicking the button
+searchBtn.addEventListener('click', () => {
+  const q = queryInput.value.trim().toLowerCase();
+
+  const results = pages.filter(p =>
+    p.title.toLowerCase().includes(q) ||
+    p.text.toLowerCase().includes(q)
+  );
+
+if (!q) {
+	resultsDiv.innerHTML = ` `;
+	return;
+	}
+	
+  resultsDiv.innerHTML = results.length
+    ? results.map(p => `
+      <div class="result">
+        <a href="${p.url}"><strong>${p.title}</strong></a><br>
+        <span>${p.text}</span>
+      </div>
+    `).join('<br>')
+    : `<p>No results found for "<strong>${q}</strong>".</p>`;
+});
+
+// Theme toggle
+const toggleButton = document.getElementById('theme-toggle');
+const body = document.body;
+
+// loads saved theme
+const savedTheme = localStorage.getItem('theme');
+if (savedTheme) {
+  body.dataset.theme = savedTheme;
+} else {
+  body.dataset.theme = 'light'; // default
+}
+
+// Saves theme
+toggleButton.addEventListener('click', () => {
+  const newTheme = body.dataset.theme === 'light' ? 'dark' : 'light';
+  body.dataset.theme = newTheme;
+  localStorage.setItem('theme', newTheme);
+});
+</script>
+
+</body>
+</html>
