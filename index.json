@@ -1,0 +1,1957 @@
+[
+  {
+    "title": "Example Domain",
+    "url": "https://example.com",
+    "text": "This domain is for use in documentation examples without needing permission. Avoid use in operations."
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://wikipedia.org",
+    "text": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation."
+  },
+  {
+    "title": "Internet for people, not profit — Mozilla Global",
+    "url": "https://mozilla.org",
+    "text": "Mozilla is the not-for-profit behind the lightning fast Firefox browser. We put people over profit to give everyone more power online."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "text": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "text": "Hacker Newsnew | past | comments | ask | show | jobs | submit"
+  },
+  {
+    "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+    "url": "https://www.archive.org",
+    "text": "https://www.archive.org"
+  },
+  {
+    "title": "NASA",
+    "url": "https://www.nasa.gov",
+    "text": "NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research."
+  },
+  {
+    "title": "wikiHow: How-to instructions you can trust.",
+    "url": "https://www.wikihow.com",
+    "text": "Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know."
+  },
+  {
+    "title": "Make your donation now - Wikimedia Foundation",
+    "url": "https://donate.wikimedia.org/?wmf_medium=portal&wmf_campaign=portalFooter&wmf_source=portalFooter",
+    "text": "Donate to the Wikimedia Foundation, the nonprofit that hosts Wikipedia and other crucial free knowledge projects. Each year, the generosity of the 2% of readers who donate allows us to expand the reach of Wikipedia and its sister projects. Our goal i"
+  },
+  {
+    "title": "List of Wikipedia mobile apps - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications",
+    "text": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"
+  },
+  {
+    "title": "‎Wikipedia on the App Store",
+    "url": "https://itunes.apple.com/app/apple-store/id324715238?pt=208305&ct=portal&mt=8",
+    "text": "Explore your world, find a quick fact, or dive down a Wikipedia rabbit hole with the official Wikipedia app for iOS. With more than 40 million articles across n…"
+  },
+  {
+    "title": "Get Firefox for desktop and mobile — Firefox.com",
+    "url": "https://www.firefox.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=firefox",
+    "text": "Firefox is a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy."
+  },
+  {
+    "title": "Mozilla Monitor",
+    "url": "https://monitor.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+    "text": "Find out if you’ve been part of a data breach with ⁨Mozilla Monitor⁩. We’ll help you understand what to do next and continuously monitor for any new breaches."
+  },
+  {
+    "title": "Firefox Relay",
+    "url": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+    "text": "⁨Firefox Relay⁩ makes it easy to create email masks that forward your messages to your true inbox. Use them to protect your online accounts from hackers and unwanted messages."
+  },
+  {
+    "title": "MDN Plus",
+    "url": "https://developer.mozilla.org/plus?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+    "text": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Thunderbird — Free Your Inbox. — Thunderbird",
+    "url": "https://www.thunderbird.net/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
+    "text": "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+  },
+  {
+    "title": "Welcome to Mozilla Foundation - Mozilla Foundation",
+    "url": "https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+    "text": "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination."
+  },
+  {
+    "title": "Mozilla.ai - We’re building a future where AI works for you",
+    "url": "https://www.mozilla.ai/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=about-us",
+    "text": "Mozilla.ai is building AI that is trustworthy, transparent, and controllable. Explore the Agent Platform to automate workflows, open-source libraries like any-agent, any-llm, any-guardrail, and mcpd, community-driven Blueprints, and Lumigator. Join u"
+  },
+  {
+    "title": "Mozilla Support",
+    "url": "https://support.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support",
+    "text": "Popular Searches:"
+  },
+  {
+    "title": "Localize Mozilla",
+    "url": "https://pontoon.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support",
+    "text": "Mozilla’s Localization Platform"
+  },
+  {
+    "title": "Firefox Developer Edition — Firefox",
+    "url": "https://www.firefox.com/channel/desktop/developer/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
+    "text": "Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging"
+  },
+  {
+    "title": "Get Firefox for your enterprise with ESR and Rapid Release — Firefox",
+    "url": "https://www.firefox.com/browsers/enterprise/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
+    "text": "Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release."
+  },
+  {
+    "title": "Firefox DevTools User Docs — Firefox Source Docs documentation",
+    "url": "https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers",
+    "text": "Overview"
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
+    "text": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Firefox 144.0.2, See All New Features, Updates and Fixes",
+    "url": "https://www.firefox.com/firefox/144.0.2/releasenotes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
+    "text": "In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy."
+  },
+  {
+    "title": "@mozilla.org on Bluesky",
+    "url": "https://bsky.app/profile/mozilla.org",
+    "text": "Building a better internet."
+  },
+  {
+    "title": "TikTok - Make Your Day",
+    "url": "https://www.tiktok.com/@mozilla",
+    "text": "https://www.tiktok.com/@mozilla"
+  },
+  {
+    "title": "IRL: Online Life is Real Life | Podcast on Spotify",
+    "url": "https://open.spotify.com/show/0vT7LJMeVDxyQ2ZamHKu08?si=_uDRD6bRR_6M5YZyISGXgA",
+    "text": "Listen to IRL: Online Life is Real Life on Spotify. How does artificial intelligence change when people — not profit — truly come first? Join IRL’s host Bridget Todd, as she meets people around the world building responsible alternatives to the tech "
+  },
+  {
+    "title": "@firefox.com on Bluesky",
+    "url": "https://bsky.app/profile/firefox.com",
+    "text": "The only major non-profit backed, people-first browser ️‍🔥"
+  },
+  {
+    "title": "Firefox - YouTube",
+    "url": "https://www.youtube.com/user/firefoxchannel",
+    "text": "Firefox helps you stay in control and in the know on the web. New videos every Monday, Wednesday, and Friday."
+  },
+  {
+    "title": "TikTok - Make Your Day",
+    "url": "https://www.tiktok.com/@firefox",
+    "text": "https://www.tiktok.com/@firefox"
+  },
+  {
+    "title": "Welcome to Mozilla Foundation - Mozilla Foundation",
+    "url": "https://foundation.mozilla.org/?form=moco-donate-footer",
+    "text": "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination."
+  },
+  {
+    "title": "Welcome to Mozilla Foundation - Mozilla Foundation",
+    "url": "https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
+    "text": "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination."
+  },
+  {
+    "title": "MDN Web Docs · GitHub",
+    "url": "https://github.com/mdn",
+    "text": "Data and tools related to MDN Web Docs (formerly Mozilla Developer Network, formerly Mozilla Developer Center...) - MDN Web Docs"
+  },
+  {
+    "title": "Experiment: Remember language 🧪 · mdn · Discussion #739 · GitHub",
+    "url": "https://github.com/orgs/mdn/discussions/739",
+    "text": "Experiment: Remember language 🧪"
+  },
+  {
+    "title": "GitHub - mdn/content: The official source for MDN Web Docs content. Home to over 14,000 pages of doc",
+    "url": "https://github.com/mdn/content",
+    "text": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. - mdn/content"
+  },
+  {
+    "title": "DOM scripting introduction: Remove redundant instruction in \"Creating a dynamic shopping list\" exerc",
+    "url": "https://github.com/mdn/content/pull/41772",
+    "text": "Clarified instructions for building a dynamic shopping list by removing redundant phrasing about item deletion. Description Removes a duplicated requirement (item 2 and 3 were identical) to prev..."
+  },
+  {
+    "title": "added await-import examples for importing json modules by therealadityashankar · Pull Request #41773",
+    "url": "https://github.com/mdn/content/pull/41773",
+    "text": "Description I added the await-import syntax for completeness sake, I believe this syntax is likely to be used in the await-import syntax much more as compared to it's use on the top-level (I can be..."
+  },
+  {
+    "title": "GitHub - mdn/translated-content: 7 community-maintained translations of MDN Web Docs in ES, FR, JA, ",
+    "url": "https://github.com/mdn/translated-content",
+    "text": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language. - mdn/translated-content"
+  },
+  {
+    "title": "[ko] URI Reference 신규 번역 by taerimiiii · Pull Request #29862 · mdn/translated-content · GitHub",
+    "url": "https://github.com/mdn/translated-content/pull/29862",
+    "text": "Description 최근에 RESTful API Endpoint 설계를 배우면서 URI, URL, URN의 차이점과 연관관계를 공부하였는데, 마침 관련 주제인 URI 문서가 번역이 안 되어 있어서 번역하게 되었습니다. Motivation [2025 OSSCA 체험형-2차] MDN 문서 한글화에 참여해 번역하게 되었습니다."
+  },
+  {
+    "title": "[ko] Web/HTTP/Guides 신규 번역 by Eomhyunjun · Pull Request #30136 · mdn/translated-content · GitHub",
+    "url": "https://github.com/mdn/translated-content/pull/30136",
+    "text": "Description https://github.com/mdn/translated-content/pull/29745의 깃이 꼬여서 브랜치 변경 후 재업로드하였습니다."
+  },
+  {
+    "title": "[ko] URI Guides 신규 번역 by taerimiiii · Pull Request #29861 · mdn/translated-content · GitHub",
+    "url": "https://github.com/mdn/translated-content/pull/29861",
+    "text": "Description 최근에 RESTful API Endpoint 설계를 배우면서 URI, URL, URN의 차이점과 연관관계를 공부하였는데, 마침 관련 주제인 URI 문서가 번역이 안 되어 있어서 번역하게 되었습니다. Motivation [2025 OSSCA 체험형-2차] MDN 문서 한글화에 참여해 번역하게 되었습니다."
+  },
+  {
+    "title": "[ko] eventSource open event 신규 번역 by LimeTree0 · Pull Request #29909 · mdn/translated-content · GitH",
+    "url": "https://github.com/mdn/translated-content/pull/29909",
+    "text": "Description eventSource의 open 이벤트에 대한 한국어 페이지를 신규 번역했습니다. Motivation [2025 OSSCA 체험형-2차] MDN 문서 한글화 프로젝트를 통해 번역을 진행하게 되었습니다."
+  },
+  {
+    "title": "[ko] Response: Response() constructor 신규 번역 by umsungjun · Pull Request #29895 · mdn/translated-cont",
+    "url": "https://github.com/mdn/translated-content/pull/29895",
+    "text": "Description Response: Response() constructor 원문 문서가 한국어로 번역되지 않아, 이번에 번역을 진행했습니다. Motivation 25[체험형-2차] MDN 문서 한글화 프로그램에 참여하며 번역을 시도하게 되었습니다."
+  },
+  {
+    "title": "Fix: Use px unit in @property/initial-value example by Mattia-Rollo · Pull Request #41781 · mdn/cont",
+    "url": "https://github.com/mdn/content/pull/41781",
+    "text": "Description Fixes #41759 Motivation Additional details Related issues and pull requests"
+  },
+  {
+    "title": "FF145 Relnote: Trusted Types early beta by hamishwillee · Pull Request #41518 · mdn/content · GitHub",
+    "url": "https://github.com/mdn/content/pull/41518",
+    "text": "FF145 supports Trusted Types in early beta in https://bugzilla.mozilla.org/show_bug.cgi?id=1992941 This adds a release note, experimental feature, and updates the API overview page. This is a minim..."
+  },
+  {
+    "title": "fix: auto-cleanup by bot by mdn-bot · Pull Request #41785 · mdn/content · GitHub",
+    "url": "https://github.com/mdn/content/pull/41785",
+    "text": "This PR was generated by this run of the auto-cleanup-bot workflow. All issues were auto-fixed."
+  },
+  {
+    "title": "MDN Web Docs · GitHub",
+    "url": "https://github.com/mdn/",
+    "text": "Data and tools related to MDN Web Docs (formerly Mozilla Developer Network, formerly Mozilla Developer Center...) - MDN Web Docs"
+  },
+  {
+    "title": "@developer.mozilla.org on Bluesky",
+    "url": "https://bsky.app/profile/developer.mozilla.org",
+    "text": "The official MDN Web Docs account, now on Bluesky. We deliver the best web docs around. Visit → https://mdn.dev Contribute → https://mdn.dev/community"
+  },
+  {
+    "title": "MDN Web Docs (@mdn@mastodon.social) - Mastodon",
+    "url": "https://mastodon.social/@mdn",
+    "text": "266 Posts, 5 Following, 2.38K Followers · The official MDN Web Docs account. We deliver the best web docs around. Visit → https://mdn.dev Contribute → https://mdn.dev/community"
+  },
+  {
+    "title": "Mozilla Careers — All open positions at Mozilla",
+    "url": "https://www.mozilla.org/en-US/careers/listings/",
+    "text": "We have a mighty mandate, serving hundreds of millions of people. Add a culture of exploration, and there is always a new way to learn and grow here."
+  },
+  {
+    "title": "MDN Plus Help",
+    "url": "https://support.mozilla.org/products/mdn-plus",
+    "text": "MDN Plus Support"
+  },
+  {
+    "title": "Internet for people, not profit — Mozilla Global",
+    "url": "https://www.mozilla.org/",
+    "text": "Mozilla is the not-for-profit behind the lightning fast Firefox browser. We put people over profit to give everyone more power online."
+  },
+  {
+    "title": "Websites, Communications & Cookies Privacy Notice — Mozilla",
+    "url": "https://www.mozilla.org/privacy/websites/",
+    "text": "Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you."
+  },
+  {
+    "title": "Manage your first-party data collection preferences — Mozilla",
+    "url": "https://www.mozilla.org/en-US/privacy/websites/data-preferences/",
+    "text": "Your privacy is very important to Mozilla. This page will enable you to manage your first-party data collection preferences for mozilla.org websites using Glean."
+  },
+  {
+    "title": "Websites & Communications Terms of Use — Mozilla",
+    "url": "https://www.mozilla.org/about/legal/terms/mozilla",
+    "text": "In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy."
+  },
+  {
+    "title": "Community Participation Guidelines — Mozilla",
+    "url": "https://www.mozilla.org/about/governance/policies/participation/",
+    "text": "In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy."
+  },
+  {
+    "title": "Welcome to Mozilla Foundation - Mozilla Foundation",
+    "url": "https://foundation.mozilla.org/",
+    "text": "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination."
+  },
+  {
+    "title": "Tiny electric motor is as powerful as four Tesla motors put together and outperforms record holder b",
+    "url": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
+    "text": "UK-based YASA has just built a tiny electric motor that makes Tesla motors look like slackers, and this invention could potentially reshape the future of EVs"
+  },
+  {
+    "title": "KaTeX – The fastest math typesetting library for the web",
+    "url": "https://katex.org/",
+    "text": "KaTeX"
+  },
+  {
+    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
+    "url": "https://blog.cloudflare.com/introducing-oxy/",
+    "text": "In this blog post, we are proud to introduce Oxy - our modern proxy framework, developed using the Rust programming language."
+  },
+  {
+    "title": "ECL runs Maxima in a browser - ecl-devel - mailman3.common-lisp.net",
+    "url": "https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/",
+    "text": "Thought you would be interested to know that Marius Gerbershagen has used ecl to compile Maxima to wasm to run in a browser. I believe it's a pretty complete implementation with fancy TeX display of formulas and nice graphics via gnuplot compiled to "
+  },
+  {
+    "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It in Action | Open CulturePa",
+    "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
+    "text": "It's fair to say that few of us now marvel at moving walkways, those standard infrastructural elements of such utilitarian spaces as airport terminals, subway stations, and big-box stores. But there was a time when they astounded even residents of on"
+  },
+  {
+    "title": "The Arduino Uno Q is a weird hybrid SBC | Jeff Geerling",
+    "url": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc",
+    "text": "The Arduino Uno Q is a weird hybrid SBC"
+  },
+  {
+    "title": "China intimidated UK university to ditch human rights research, documents show",
+    "url": "https://www.bbc.com/news/articles/cq50j5vwny6o",
+    "text": "Sheffield Hallam University apologises to Professor Laura Murphy for restricting her academic freedom."
+  },
+  {
+    "title": "When Models Manipulate Manifolds: The Geometry of a Counting Task",
+    "url": "https://transformer-circuits.pub/2025/linebreaks/index.html",
+    "text": "Intelligent systems need perception to understand, predict, and navigate their environment. These sensory capabilities reflect what's useful for survival in a specific environment: bats use echolocation, migratory birds sense magnetic fields, Arctic "
+  },
+  {
+    "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody – Krebs on Security",
+    "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+    "text": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned."
+  },
+  {
+    "title": "\"Why don't you use dependent types?\"",
+    "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+    "text": "02 Nov 2025"
+  },
+  {
+    "title": "Your URL Is Your State",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "text": "A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps."
+  },
+  {
+    "title": "Syllabi - Open Source AI Chatbot Platform with RAG",
+    "url": "https://www.syllabi-ai.com/",
+    "text": "Build intelligent AI chatbots with RAG, native Python/R code execution, and seamless integrations. Connect to Slack, Discord, Google Drive, and more. Free and open source."
+  },
+  {
+    "title": "How the Mayans were able to accurately predict solar eclipses for centuries",
+    "url": "https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html",
+    "text": "The Maya Civilization, from Central America, was one of the most advanced ancient civilizations, known for its significant achievements in astronomy and mathematics. This includes accurate calendars and detailed celestial records, but scientists don'"
+  },
+  {
+    "title": "Micro Maker Series: Underdetermined Weaving with Machines - YouTube",
+    "url": "https://www.youtube.com/watch?v=on_sK8KoObo",
+    "text": "Part of the Crafting Change Symposium hosted by the Center for Convergence at Oberlin College and Conservatory, the Micro Maker Series is a fully virtual lec..."
+  },
+  {
+    "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
+    "url": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+    "text": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
+  },
+  {
+    "title": "No Title",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "text": "https://cr.yp.to/2025/fil-c.html"
+  },
+  {
+    "title": "LISP-NOTES ON ITS PAST AND FUTURE-1980",
+    "url": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
+    "text": "LISP-NOTES ON ITS PAST AND FUTURE-1980"
+  },
+  {
+    "title": "Room-Temperature Terahertz Tech Emerges - IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/terahertz-chip-room-temperature",
+    "text": "Harnessing terahertz waves with mercury telluride could transform data centers by reducing cables, saving space, and increasing efficiency."
+  },
+  {
+    "title": "[2312.17043] Collatz-Weyl Generators: High Quality and High Throughput Parameterized Pseudorandom Nu",
+    "url": "https://arxiv.org/abs/2312.17043",
+    "text": "Abstract page for arXiv paper 2312.17043: Collatz-Weyl Generators: High Quality and High Throughput Parameterized Pseudorandom Number Generators"
+  },
+  {
+    "title": "Linux Tidbits And Collecting Pebbles | Unixbhaskar's Blog",
+    "url": "https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/",
+    "text": "Well, my journey with Linux1 and Open source2 becoming quite astonish way of moving forward in life. I have been hugely influenced by the UNIX3 luminaries work and try to follow the principles they have established for the betterment. Sometimes, in f"
+  },
+  {
+    "title": "21 Facts About Throwing Good Parties",
+    "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
+    "text": "Parties are a public service; here's how to throw them."
+  },
+  {
+    "title": "New prompt injection papers: Agents Rule of Two and The Attacker Moves Second",
+    "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
+    "text": "2nd November 2025"
+  },
+  {
+    "title": "Reproducing the AWS Outage Race Condition with a Model Checker | Waqas Younas' blog",
+    "url": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
+    "text": "Welcome to Waqas' blog"
+  },
+  {
+    "title": "Why Does Swiss Cheese Have Holes? | U.S. Dairy",
+    "url": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes",
+    "text": "Swiss cheese gets holes from carbon dioxide bubbles during the cheese-making process. Learn more about what causes the holes in Swiss cheese at U.S. Dairy."
+  },
+  {
+    "title": "No Title",
+    "url": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2",
+    "text": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2"
+  },
+  {
+    "title": "Simple trick to increase coverage: Lying to users about signal strength | Nick vs Networking",
+    "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
+    "text": "Poking around in Android the other day I found this nugget in Carrier Config manager; a flag (KEY_INFLATE_SIGNAL_STRENGTH_BOOL) to always report the signal strength to the user as one bar higher than it really is."
+  },
+  {
+    "title": "Apply to Y Combinator | Y Combinator",
+    "url": "https://www.ycombinator.com/apply/",
+    "text": "To apply for the Y Combinator program, submit an application form. We accept companies in batches four times a year. The program includes weekly dinners, office hours with YC partners and access to the network of other YC founders. The program culmin"
+  },
+  {
+    "title": "GitHub - HackerNews/API: Documentation and Samples for the Official HN API",
+    "url": "https://github.com/HackerNews/API",
+    "text": "Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub."
+  },
+  {
+    "title": "Legal | Y Combinator",
+    "url": "https://www.ycombinator.com/legal/",
+    "text": "Y Combinator Privacy Policy, Terms of Use, and Trademarks"
+  },
+  {
+    "title": "NASA",
+    "url": "https://www.nasa.gov/",
+    "text": "NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research."
+  },
+  {
+    "title": "NASA News",
+    "url": "https://www.nasa.gov/news/",
+    "text": "Resources for news media, including NASA news contacts and archived news material"
+  },
+  {
+    "title": "2025 News Releases - NASA",
+    "url": "https://www.nasa.gov/2025-news-releases/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "All NASA News - NASA",
+    "url": "https://www.nasa.gov/news/recently-published/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Explore Series | NASA+Explore Series - NASA+",
+    "url": "https://plus.nasa.gov/series/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Podcasts and Audio - NASA",
+    "url": "https://www.nasa.gov/podcasts-and-audio/",
+    "text": "Explore the universe and discover our home planet with NASA through a collection of our sounds from historic spaceflights and current missions. You can hear"
+  },
+  {
+    "title": "Blogs - NASA",
+    "url": "https://www.nasa.gov/nasa-blogs/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Newsletters - NASA",
+    "url": "https://www.nasa.gov/newsletters/",
+    "text": "Centers and Facilities Aerospace FrontiersRead Online The latest accomplishments and activities from Glenn Research Center in Cleveland, Ohio Armstrong Flight"
+  },
+  {
+    "title": "Official NASA Social Media Accounts - NASA",
+    "url": "https://www.nasa.gov/social-media/",
+    "text": "We soon will sunset some NASA social media accounts. But rest assured, the out-of-this-world imagery, science discoveries, research, and human spaceflight"
+  },
+  {
+    "title": "NASA Media Contacts - NASA",
+    "url": "https://www.nasa.gov/news/media-contacts/",
+    "text": "Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle"
+  },
+  {
+    "title": "Events - NASA",
+    "url": "https://www.nasa.gov/events",
+    "text": "Events Archive - NASA"
+  },
+  {
+    "title": "Launch Schedule Archives - NASA",
+    "url": "https://www.nasa.gov/event-type/launch-schedule/",
+    "text": "Stay in the know with the schedule of NASA’S upcoming launches, landings, spacewalks and other upcoming moments."
+  },
+  {
+    "title": "NASA Virtual Guest Program - NASA",
+    "url": "https://www.nasa.gov/nasa-virtual-guest-program/",
+    "text": "Yes, all resources, participation, and registration are completely FREE."
+  },
+  {
+    "title": "Multimedia - NASA",
+    "url": "https://www.nasa.gov/multimedia/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Home | NASA+Home - NASA+",
+    "url": "https://plus.nasa.gov/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "NASA Images - NASA",
+    "url": "https://www.nasa.gov/images/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "NASA Live - NASA",
+    "url": "https://www.nasa.gov/live",
+    "text": "NASA live: Follow live television broadcasts on NASA+, the agency's streaming service, and NASA's social media channels with this schedule of upcoming live events including news briefings, launches and landings."
+  },
+  {
+    "title": "Mobile and Desktop Apps - NASA",
+    "url": "https://www.nasa.gov/apps/",
+    "text": "App Store | Google Play"
+  },
+  {
+    "title": "Podcasts - NASA",
+    "url": "https://www.nasa.gov/podcasts/",
+    "text": "Podcasts Archive - NASA"
+  },
+  {
+    "title": "Image of the Day - NASA",
+    "url": "https://www.nasa.gov/image-of-the-day/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "e-Books - NASA",
+    "url": "https://www.nasa.gov/ebooks/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Games and Interactives - NASA",
+    "url": "https://www.nasa.gov/interactives/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "STEM Content - NASA",
+    "url": "https://www.nasa.gov/learning-resources/search/?terms=8058%2C8059%2C8061%2C8062%2C8068",
+    "text": "STEM Content Archive - NASA"
+  },
+  {
+    "title": "NASA Brand Center",
+    "url": "https://www.nasa.gov/nasa-brand-center/",
+    "text": "NASA has established specific guidelines for the use of its brand, merchandise, and media. These guidelines are designed to ensure that..."
+  },
+  {
+    "title": "18933 Search Results for \"Climate Change\"",
+    "url": "https://www.nasa.gov/?search=Climate%20Change",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "18065 Search Results for \"Artemis\"",
+    "url": "https://www.nasa.gov/?search=Artemis",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "11880 Search Results for \"Expedition 64\"",
+    "url": "https://www.nasa.gov/?search=Expedition%2064",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "16239 Search Results for \"Mars perseverance\"",
+    "url": "https://www.nasa.gov/?search=Mars%20perseverance",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "14168 Search Results for \"SpaceX Crew-2\"",
+    "url": "https://www.nasa.gov/?search=SpaceX%20Crew-2",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "43387 Search Results for \"International Space Station\"",
+    "url": "https://www.nasa.gov/?search=International%20Space%20Station",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "A to Z Topics Listing - NASA",
+    "url": "https://www.nasa.gov/a-to-z-topics-listing/",
+    "text": "Use this A to Z Topics Listing to discover all things NASA!"
+  },
+  {
+    "title": "Missions - NASA",
+    "url": "https://www.nasa.gov/nasa-missions/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Humans In Space - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Earth - NASA Science",
+    "url": "https://science.nasa.gov/earth/",
+    "text": "Your home. Our Mission.And the one planet that NASA studies more than any other."
+  },
+  {
+    "title": "Solar System Exploration",
+    "url": "https://science.nasa.gov/solar-system/",
+    "text": "The solar system has one star, eight planets, five dwarf planets, at least 290 moons, more than 1.3 million asteroids, and about 3,900 comets."
+  },
+  {
+    "title": "Universe - NASA Science",
+    "url": "https://science.nasa.gov/universe/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "NASA Science",
+    "url": "https://science.nasa.gov/",
+    "text": "NASA Science seeks to discover the secrets of space, the origins of the universe, search for life elsewhere, and protect and improve life on Earth."
+  },
+  {
+    "title": "Aeronautics",
+    "url": "https://www.nasa.gov/aeronautics/",
+    "text": "Welcome to NASA's online home for all things related to the first \"A\" in NASA —Aeronautics. Here you can stay informed about NASA's research to improve air travel and make it more sustainable."
+  },
+  {
+    "title": "Technology - NASA",
+    "url": "https://www.nasa.gov/technology/",
+    "text": "Technology drives exploration. NASA technology development supports the nation’s innovation economy by creating solutions for space exploration that also generate tangible benefits for life on Earth."
+  },
+  {
+    "title": "Learning Resources - NASA",
+    "url": "https://www.nasa.gov/learning-resources/",
+    "text": "We’re launching learning to new heights with STEM resources that connect educators, students, parents and caregivers to the inspiring work at NASA. Find your place in space!"
+  },
+  {
+    "title": "About NASA - NASA",
+    "url": "https://www.nasa.gov/about/",
+    "text": "About NASA's mission, organization and leadership."
+  },
+  {
+    "title": "NASA en español - NASA",
+    "url": "https://www.nasa.gov/es/",
+    "text": "Explora el universo y descubre tu planeta natal con nosotros, en tu idioma."
+  },
+  {
+    "title": "Discovery Alert: 'Baby' Planet Photographed in a Ring around a Star for the First Time! - NASA Scien",
+    "url": "https://science.nasa.gov/universe/exoplanets/discovery-alert-baby-planet-photographed-in-a-ring-around-a-star-for-the-first-time/",
+    "text": "WISPIT 2b"
+  },
+  {
+    "title": "Astronaut Candidates Get to Work at Johnson Space Center - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/",
+    "text": "NASA announced its newest class of astronaut candidates on Sept. 22, 2025, at the agency’s Johnson Space Center in Houston. After the welcome ceremony, the 10"
+  },
+  {
+    "title": "NASA Aircraft Coordinate Science Flights to Measure Air Quality - NASA Science",
+    "url": "https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/",
+    "text": "Magic is in the air. No wait… MAGEQ is in the air, featuring scientists from NASA centers across the country who teamed up with the National Oceanic and"
+  },
+  {
+    "title": "Missions - NASA",
+    "url": "https://www.nasa.gov/missions/",
+    "text": "Missions Archive - NASA"
+  },
+  {
+    "title": "A to Z of NASA Missions - NASA",
+    "url": "https://www.nasa.gov/a-to-z-of-nasa-missions/",
+    "text": "3D Tissue Chips"
+  },
+  {
+    "title": "Events - NASA",
+    "url": "https://www.nasa.gov/events/",
+    "text": "Events Archive - NASA"
+  },
+  {
+    "title": "Spaceships and Rockets - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/spaceships-and-rockets/",
+    "text": "Learn more about NASA's spaceships and rockets"
+  },
+  {
+    "title": "SCaN: Communicating with Missions",
+    "url": "https://www.nasa.gov/communicating-with-missions/",
+    "text": "SCaN’s Near Space Network (NSN) and Deep Space Network (DSN) enable more than 100 NASA and non-NASA missions to explore the unknown, innovate for the benefit of humanity, and inspire the world through discovery."
+  },
+  {
+    "title": "Artemis - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/artemis/",
+    "text": "https://flic.kr/s/aHBqjzG1pG Relive the wonder of Artemis I"
+  },
+  {
+    "title": "James Webb Space Telescope - NASA Science",
+    "url": "https://science.nasa.gov/mission/webb/",
+    "text": "Space Telescope"
+  },
+  {
+    "title": "Hubble Space Telescope - NASA Science",
+    "url": "https://science.nasa.gov/mission/hubble/",
+    "text": "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe."
+  },
+  {
+    "title": "International Space Station - NASA",
+    "url": "https://www.nasa.gov/international-space-station/",
+    "text": "To view more images, visit the Space Station Gallery."
+  },
+  {
+    "title": "NASA's OSIRIS-REx Mission to Asteroid Bennu",
+    "url": "https://science.nasa.gov/mission/osiris-rex/",
+    "text": "OSIRIS-REx, the first U.S. mission to collect an asteroid sample in 2020, delivered the sample to Earth on Sept. 24, 2023."
+  },
+  {
+    "title": "Why Go to Space - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/why-go-to-space/",
+    "text": "At NASA, we explore the secrets of the universe for the benefit of all, creating new opportunities and inspiring the world through discovery."
+  },
+  {
+    "title": "Astronauts - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/astronauts/",
+    "text": "Exploration is really the essence of the human spirit."
+  },
+  {
+    "title": "Commercial Space - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Destinations - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/destinations/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Living in Space",
+    "url": "https://www.nasa.gov/humans-in-space/living-in-space/",
+    "text": "From the challenges of providing optimal nutrition to managing the risks posed by microgravity, scientists and engineers from NASA work to predict, assess, and solve the problems that humans encounter in space. Through such research, NASA can develop"
+  },
+  {
+    "title": "Explore Earth Science - NASA Science",
+    "url": "https://science.nasa.gov/earth/explore",
+    "text": "From its origins, NASA has studied our planet in novel ways, using a fleet of satellites and ambitious airborne and ground-based campaigns to study"
+  },
+  {
+    "title": "Climate Change - NASA Science",
+    "url": "https://science.nasa.gov/climate-change",
+    "text": "NASA is a global leader in studying Earth’s changing climate."
+  },
+  {
+    "title": "Facts About Earth",
+    "url": "https://science.nasa.gov/earth/facts",
+    "text": "Earth is the third planet from the Sun, and the fifth largest planet. It's the only place we know of inhabited by living things."
+  },
+  {
+    "title": "Earth Science at Work - NASA Science",
+    "url": "https://science.nasa.gov/earth/in-action",
+    "text": "NASA Earth Science helps Americans respond to challenges and societal needs — such as wildland fires, hurricanes, and water supplies for farming — by putting actionable satellite information into the hands of decisionmakers."
+  },
+  {
+    "title": "Earth Multimedia & Galleries - NASA Science",
+    "url": "https://science.nasa.gov/earth/multimedia",
+    "text": "NASA has a unique vantage point for observing the beauty and wonder of Earth while trying to make sense of it. Explore our galleries and multimedia."
+  },
+  {
+    "title": "Earth Science Data - NASA Science",
+    "url": "https://science.nasa.gov/earth/data",
+    "text": "NASA’s Earth Science Data Systems (ESDS) Program oversees the entire Earth science data life cycle and facilitates unrestricted access to maximize the scientific return from NASA's missions and experiments."
+  },
+  {
+    "title": "Earth Science Researchers - NASA Science",
+    "url": "https://science.nasa.gov/earth-science",
+    "text": "NASA is an exploration agency, and one of our missions is to know our home. We develop novel tools and techniques for understanding how our planet works — for"
+  },
+  {
+    "title": "Sun - NASA Science",
+    "url": "https://science.nasa.gov/sun/",
+    "text": "The Sun is the star at the heart of our solar system. Its gravity holds the solar system together, keeping everything – from the biggest planets to the smallest bits of debris – in its orbit."
+  },
+  {
+    "title": "Mercury",
+    "url": "https://science.nasa.gov/mercury/",
+    "text": "Mercury is the closest planet to the Sun, and the smallest planet in our solar system - only slightly larger than Earth's Moon."
+  },
+  {
+    "title": "Venus",
+    "url": "https://science.nasa.gov/venus",
+    "text": "Venus is the second planet from the Sun, and the sixth largest planet. It’s the hottest planet in our solar system."
+  },
+  {
+    "title": "Facts About Earth",
+    "url": "https://science.nasa.gov/earth/facts/",
+    "text": "Earth is the third planet from the Sun, and the fifth largest planet. It's the only place we know of inhabited by living things."
+  },
+  {
+    "title": "Earth's Moon",
+    "url": "https://science.nasa.gov/moon/",
+    "text": "The Moon makes Earth more livable, sets the rhythm of ocean tides, and keeps a record of our solar system's history. Explore NASA lunar science here."
+  },
+  {
+    "title": "Mars - NASA Science",
+    "url": "https://science.nasa.gov/mars",
+    "text": "Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited entirely by robots."
+  },
+  {
+    "title": "Jupiter",
+    "url": "https://science.nasa.gov/jupiter",
+    "text": "Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined."
+  },
+  {
+    "title": "Saturn",
+    "url": "https://science.nasa.gov/saturn",
+    "text": "Saturn is the sixth planet from the Sun, and the second largest in the solar system. It’s surrounded by beautiful rings."
+  },
+  {
+    "title": "Uranus",
+    "url": "https://science.nasa.gov/uranus/",
+    "text": "Uranus is the seventh planet from the Sun, and the third largest planet in our solar system. It appears to spin sideways."
+  },
+  {
+    "title": "Neptune",
+    "url": "https://science.nasa.gov/neptune/",
+    "text": "Neptune is the eighth and most distant planet from the Sun. It’s the fourth largest, and the first planet discovered with math."
+  },
+  {
+    "title": "Pluto & Dwarf Planets",
+    "url": "https://science.nasa.gov/dwarf-planets/",
+    "text": "Our solar system has five dwarf planets: In order of distance from the Sun they are: Ceres, Pluto, Haumea, Makemake, and Eris."
+  },
+  {
+    "title": "Asteroids, Comet, and Meteors",
+    "url": "https://science.nasa.gov/asteroids-comets-meteors/",
+    "text": "Asteroids, comets, and meteors are chunks of rock, ice, and metal left over from the formation of our solar system about 4.6 billion years ago."
+  },
+  {
+    "title": "Kuiper Belt",
+    "url": "https://science.nasa.gov/solar-system/kuiper-belt/",
+    "text": "The Kuiper Belt is a doughnut-shaped region of icy objects beyond the orbit of Neptune. It is home to Pluto and most of the known dwarf planets and some comets."
+  },
+  {
+    "title": "Oort Cloud",
+    "url": "https://science.nasa.gov/solar-system/oort-cloud/",
+    "text": "Scientists think the Oort Cloud is a giant spherical shell surrounding the Sun, planets and Kuiper Belt Objects."
+  },
+  {
+    "title": "Skywatching Tips From NASA",
+    "url": "https://science.nasa.gov/skywatching/",
+    "text": "NASA's skywatching resources are shared in that same spirit of exploration. We recognize that there's an explorer in each of us, and we want you to remember"
+  },
+  {
+    "title": "Exoplanets - NASA Science",
+    "url": "https://science.nasa.gov/exoplanets/",
+    "text": "Most of the exoplanets discovered so far are in a relatively small region of our galaxy, the Milky Way. (“Small” meaning within thousands of light-years of"
+  },
+  {
+    "title": "Are We Alone? - NASA Science",
+    "url": "https://science.nasa.gov/universe/search-for-life/",
+    "text": "The search for life beyond Earth is really just getting started, but science has an encouraging early answer: there are plenty of planets in the galaxy, many"
+  },
+  {
+    "title": "Stars - NASA Science",
+    "url": "https://science.nasa.gov/universe/stars/",
+    "text": "Astronomers estimate that the universe could contain up to one septillion stars – that’s a one followed by 24 zeros. Our Milky Way alone contains more than"
+  },
+  {
+    "title": "Galaxies - NASA Science",
+    "url": "https://science.nasa.gov/universe/galaxies/",
+    "text": "Galaxies consist of stars, planets, and vast clouds of gas and dust, all bound together by gravity. The largest contain trillions of stars and can be more"
+  },
+  {
+    "title": "Black Holes - NASA Science",
+    "url": "https://science.nasa.gov/universe/black-holes/",
+    "text": "Black holes are among the most mysterious cosmic objects, much studied but not fully understood. These objects aren’t really holes. They’re huge"
+  },
+  {
+    "title": "The Big Bang - NASA Science",
+    "url": "https://science.nasa.gov/universe/the-big-bang/",
+    "text": "The origin, evolution, and nature of the universe have fascinated and confounded humankind for centuries. New ideas and major discoveries made during the 20th"
+  },
+  {
+    "title": "What is Dark Energy? Inside Our Accelerating, Expanding Universe - NASA Science",
+    "url": "https://science.nasa.gov/dark-energy",
+    "text": "Some 13.8 billion years ago, the universe began with a rapid expansion we call the big bang. After this initial expansion, which lasted a fraction of a"
+  },
+  {
+    "title": "Dark Matter - NASA Science",
+    "url": "https://science.nasa.gov/dark-matter",
+    "text": "Dark matter is the invisible glue that holds the universe together. This mysterious material is all around us, making up most of the matter in the universe."
+  },
+  {
+    "title": "Earth Science Researchers - NASA Science",
+    "url": "https://science.nasa.gov/earth-science/",
+    "text": "NASA is an exploration agency, and one of our missions is to know our home. We develop novel tools and techniques for understanding how our planet works — for"
+  },
+  {
+    "title": "Planetary Science - NASA Science",
+    "url": "https://science.nasa.gov/planetary-science/",
+    "text": "NASA’s planetary science program explores the objects in our solar system to better understand its history and the distribution of life within."
+  },
+  {
+    "title": "NASA Astrophysics - NASA Science",
+    "url": "https://science.nasa.gov/astrophysics/",
+    "text": "The universe is everything: space, matter, energy, and time. NASA’s Astrophysics Division is dedicated to pushing the boundaries of discovery and ensuring"
+  },
+  {
+    "title": "NASA Heliophysics",
+    "url": "https://science.nasa.gov/heliophysics/",
+    "text": "The Science Mission Directorate Heliophysics Division studies the Sun and its dynamic influence across our complex, interconnected solar system."
+  },
+  {
+    "title": "NASA Biological & Physical Sciences - NASA Science",
+    "url": "https://science.nasa.gov/biological-physical",
+    "text": "NASA’s Biological and Physical Sciences mission is to lead the world in fundamental space-based research, pioneer transformational discoveries, enable sustained human space exploration, and improve life on Earth and in space."
+  },
+  {
+    "title": "Lunar Discovery and Exploration - NASA Science",
+    "url": "https://science.nasa.gov/lunar-science",
+    "text": "NASA's Lunar Discovery and Exploration program establishes and facilitates science research that is important to the lunar science community."
+  },
+  {
+    "title": "Citizen Science - NASA Science",
+    "url": "https://science.nasa.gov/citizen-science/",
+    "text": "Join NASA researchers and discover the secrets of the universe, search for life elsewhere, and protect and improve life on Earth and in space."
+  },
+  {
+    "title": "Astromaterials - NASA Science",
+    "url": "https://science.nasa.gov/astromaterials/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Aeronautics Research",
+    "url": "https://www.nasa.gov/aeronautics-research/",
+    "text": "Aeronautics Research"
+  },
+  {
+    "title": "Human Space Travel Research - NASA",
+    "url": "https://www.nasa.gov/human-space-travel-research/",
+    "text": "From studies that seek to understand how the human body adapts to time in space to research on spacesuits and spacecraft, learn about human space travel research."
+  },
+  {
+    "title": "Science in the Air",
+    "url": "https://www.nasa.gov/aeronautics/science-in-the-air/",
+    "text": "The Science in the Air page will show stories for when a NASA aircraft is used to host, conduct, or otherwise support NASA scientists in their efforts to learn more about Planet Earth, we'll highlight those stories here."
+  },
+  {
+    "title": "NASA Aircraft",
+    "url": "https://www.nasa.gov/aeronautics/aircraft/",
+    "text": "This NASA Aircraft page will showcase NASA’s aircraft operations that enable the Agency’s myriad missions, from preparing astronauts to go to space, to studying Earth from the air, to developing leading-edge aeronautic technologies."
+  },
+  {
+    "title": "Flight Innovation",
+    "url": "https://www.nasa.gov/aeronautics/flight-innovation/",
+    "text": "NASA's aeronautics research can be sorted into several categories, such as sustainable aviation, supersonic flight, drones, and air traffic management. But not all of NASA's aeronautical investigations fit perfectly into a specific category. This pag"
+  },
+  {
+    "title": "Supersonic Flight",
+    "url": "https://www.nasa.gov/aeronautics/supersonic-flight/",
+    "text": "NASA is working with its partners to enable new choices for high-speed air travel, starting with commercial supersonic flight over land through the Quesst mission and the experimental X-59 airplane."
+  },
+  {
+    "title": "Air Traffic Solutions",
+    "url": "https://www.nasa.gov/aeronautics/air-traffic-solutions/",
+    "text": "The skies are getting busier every day, with new types of aircraft aiming to provide innovative air travel services that seek to improve all of our lives, whether that means delivering cargo to your front door or providing personalized taxi service a"
+  },
+  {
+    "title": "Ultra-Efficient Aviation",
+    "url": "https://www.nasa.gov/aeronautics/ultra-efficient-aviation/",
+    "text": "The Ultra-Efficient Aviation page covers NASA research to make the aviation community more economically and environmentally sustainable."
+  },
+  {
+    "title": "Drones and You",
+    "url": "https://www.nasa.gov/aeronautics/drones-and-you/",
+    "text": "The Drones and You page is NASA’s vision for the Advanced Air Mobility (AAM) Mission which is to help emerging aviation markets to safely develop an air transportation system that moves people and cargo between places previously not served or underse"
+  },
+  {
+    "title": "Technology Transfer and Spinoffs",
+    "url": "https://www.nasa.gov/space-technology-mission-directorate/technology-transfer-spinoffs/",
+    "text": "Technology Transfer and Spinoffs"
+  },
+  {
+    "title": "Space Travel Technology - NASA",
+    "url": "https://www.nasa.gov/space-travel-technology/",
+    "text": "Space Travel"
+  },
+  {
+    "title": "Technology Living in Space - NASA",
+    "url": "https://www.nasa.gov/space-living-technology/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Manufacturing and Materials - NASA",
+    "url": "https://www.nasa.gov/manufacturing-and-materials/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Robotics - NASA",
+    "url": "https://www.nasa.gov/robotics/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Science Instruments - NASA",
+    "url": "https://www.nasa.gov/science-instruments/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Computing - NASA",
+    "url": "https://www.nasa.gov/computing/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "For Kids and Students - NASA",
+    "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/",
+    "text": "Find fun and interesting hands-on activities, games, and more for kids and students, grades K-4 all the way to college."
+  },
+  {
+    "title": "For Educators - NASA",
+    "url": "https://www.nasa.gov/learning-resources/for-educators/",
+    "text": "NASA offers a wide array of unique experiences designed to engage students nationwide in the agency’s missions, people, and resources."
+  },
+  {
+    "title": "For Colleges and Universities - NASA",
+    "url": "https://www.nasa.gov/learning-resources/colleges-and-universities/",
+    "text": "NASA leverages its unique missions and programs to enhance and increase the capability, diversity, and size of the nation’s future STEM workforce via colleges and universities."
+  },
+  {
+    "title": "For Professionals - NASA",
+    "url": "https://www.nasa.gov/learning-resources/for-professionals/",
+    "text": "NASA offers a wide variety of resources and opportunities for professionals."
+  },
+  {
+    "title": "Science for Everyone - NASA Science",
+    "url": "https://science.nasa.gov/for-everyone/",
+    "text": "Connect with and experience NASA's mission of scientific exploration and discovery, there's something to awaken the curiosity in everyone."
+  },
+  {
+    "title": "Requests for Exhibits, Artifacts, or Speakers - NASA",
+    "url": "https://www.nasa.gov/requests-for-exhibits-artifacts-or-speakers/",
+    "text": "The NASA Engages program is composed of NASA Experts who share NASA missions and content at educational, professional, civic, and other public venues."
+  },
+  {
+    "title": "About STEM Engagement at NASA - NASA",
+    "url": "https://www.nasa.gov/learning-resources/stem-engagement/",
+    "text": "The Office of STEM Engagement is committed to engaging, inspiring, and attracting future generations of explorers and building a diverse future STEM workforce through a broad set of educational programs, projects, internship opportunities, activities"
+  },
+  {
+    "title": "NASA's Impact - NASA",
+    "url": "https://www.nasa.gov/nasa-impact/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Centers and Facilities - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/",
+    "text": "NASA centers and facilities are federal government installations and require all U.S. citizens, 18 years or older, to present unexpired, government-issued"
+  },
+  {
+    "title": "NASA Directorates - NASA",
+    "url": "https://www.nasa.gov/directorates/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "NASA Organization - NASA",
+    "url": "https://www.nasa.gov/organization/",
+    "text": "Organization listing of NASA centers, HQ offices and officials in charge."
+  },
+  {
+    "title": "People of NASA - NASA",
+    "url": "https://www.nasa.gov/people-of-nasa/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Careers - NASA",
+    "url": "https://www.nasa.gov/careers/",
+    "text": "Federal merit system principles emphasize that the Federal Government should strive to build a workforce reflective of all segments of society. At NASA, we"
+  },
+  {
+    "title": "NASA Internship Programs - NASA",
+    "url": "https://www.nasa.gov/learning-resources/internship-programs/",
+    "text": "NASA’s internship programs provide training, mentoring, and career development opportunities while working with the best science, engineering, financial, information technology and business minds in the world."
+  },
+  {
+    "title": "NASA History - NASA",
+    "url": "https://www.nasa.gov/history/",
+    "text": "Discover the history of NASA, see what's new at the NASA History Office, and dig into NASA's archives and other historical research resources."
+  },
+  {
+    "title": "Doing Business with NASA - NASA",
+    "url": "https://www.nasa.gov/doing-business-with-nasa/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Get Involved - NASA",
+    "url": "https://www.nasa.gov/get-involved/",
+    "text": "Get involved and join us! We invite members of the public to contribute their time and expertise to advancing research, solving problems, and potentially winning prizes as a result of their work."
+  },
+  {
+    "title": "Contact Page - NASA",
+    "url": "https://www.nasa.gov/contact/",
+    "text": "We encourage you to use the NASA website for finding the information you are seeking or the answers to your questions before submitting a request for"
+  },
+  {
+    "title": "Ciencia de la NASA en español - NASA Ciencia",
+    "url": "https://ciencia.nasa.gov/",
+    "text": "Últimas noticias, descubrimientos y ciencia de la NASA sobre planetas, astronomía y exploración en la web oficial en español. Explora en tu idioma."
+  },
+  {
+    "title": "Ciencias terrestres - NASA Ciencia",
+    "url": "https://ciencia.nasa.gov/tierra/",
+    "text": "Explora la página de Ciencia de la Tierra de la NASA en español con datos sobre clima, geología, océanos y atmósfera. Conoce nuestro planeta."
+  },
+  {
+    "title": "Sistema solar - NASA Ciencia",
+    "url": "https://ciencia.nasa.gov/sistema-solar",
+    "text": "Explora el sistema solar en la página de la NASA en español, con información actualizada sobre planetas, lunas, asteroides, el sol y más."
+  },
+  {
+    "title": "Universo - NASA Ciencia",
+    "url": "https://ciencia.nasa.gov/universo",
+    "text": "Explora el universo en el sitio web Ciencia de la NASA, con datos en español sobre galaxias, estrellas, agujeros negros, exoplanetas, y más."
+  },
+  {
+    "title": "NASA's Webb Telescope Studies Moon-Forming Disk Around Massive Planet - NASA Science",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
+    "text": "NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk"
+  },
+  {
+    "title": "Hubble Captures Puzzling Galaxy - NASA Science",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/",
+    "text": "This Hubble image features the flocculent spiral galaxy NGC 2775, which lies 67 million light-years away in the constellation Cancer."
+  },
+  {
+    "title": "NASA, Sierra Space Modify Commercial Resupply Services Contract - NASA",
+    "url": "https://www.nasa.gov/missions/station/nasa-sierra-space-modify-commercial-resupply-services-contract/",
+    "text": "In 2016, NASA awarded a Commercial Resupply Services-2 contract to Sierra Space, formerly part of Sierra Nevada Corporation, to resupply the"
+  },
+  {
+    "title": "NASA Opens 2026 Human Lander Challenge for Life Support Systems, More - NASA",
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/",
+    "text": "NASA’s 2026 Human Lander Challenge is seeking ideas from college and university students to help evolve and transform technologies for life support and"
+  },
+  {
+    "title": "Inside the Visualization: Aerosols - NASA Science",
+    "url": "https://science.nasa.gov/earth/inside-the-visualization-aerosols/",
+    "text": "NASA uses satellites, ground measurements, and powerful computer models to track tiny particles floating in our air called aerosols."
+  },
+  {
+    "title": "NASA Data Powers New Tool to Protect Water Supply After Fires - NASA Science",
+    "url": "https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/",
+    "text": "When wildfires scorch a landscape, the flames are just the beginning. NASA is helping U.S. communities foresee and prepare for what can follow: mudslides, flash flooding, and contaminated water supplies."
+  },
+  {
+    "title": "October’s Night Sky Notes: Let’s Go, LIGO! - NASA Science",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
+    "text": "September 2025 marks ten years since the first direct detection of gravitational waves as predicted by Albert Einstein’s 1916 theory of General Relativity."
+  },
+  {
+    "title": "Background - NASA Science",
+    "url": "https://science.nasa.gov/citizen-science/exoplanet-watch/background/",
+    "text": "Overview | Stay in Touch | Community | Glossary | Background Information | Team"
+  },
+  {
+    "title": "What's Up: October 2025 Skywatching Tips from NASA - NASA Science",
+    "url": "https://science.nasa.gov/solar-system/whats-up-october-2025-skywatching-tips-from-nasa/",
+    "text": "A supermoon takes over the sky, the Draconid meteor shower peeks through, and the Orionid meteor shower shines bright."
+  },
+  {
+    "title": "Exoplanet Watch Overview - NASA Science",
+    "url": "https://science.nasa.gov/citizen-science/exoplanet-watch/exoplanet-watch-overview/",
+    "text": "Who we are: A NASA citizen science project, sponsored by NASA's Universe of Learning, we help anyone explore exoplanets at any level, from students to"
+  },
+  {
+    "title": "Lapse in Funding: ROSES POCs offline, this blog will not be updated, due dates will change to TBD on",
+    "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/lapse-in-funding-roses-pocs-offline-this-blog-will-not-be-updated-due-dates-will-change-to-tbd-on-nspires/",
+    "text": "NOTICE: October 1, 2025. There has been a lapse in funding. As long as the lapse in funding continues, civil servant points of contact for NASA programs will"
+  },
+  {
+    "title": "NASA Flights Study Cosmic Ray Effects for Air, Future Space Travelers - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-flights-study-cosmic-ray-effects-for-air-future-space-travelers/",
+    "text": "Recent airborne science flights to Greenland are improving NASA’s understanding of space weather by measuring radiation exposure to air travelers and"
+  },
+  {
+    "title": "NASA, Partners Push Forward with Remotely Piloted Airspace Integration - NASA",
+    "url": "https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/",
+    "text": "NASA and its partners recently tested a tool for remotely piloted operations that could enable operators to transport people and goods more efficiently within"
+  },
+  {
+    "title": "Aeronautics e-Books",
+    "url": "https://www.nasa.gov/aeronautics-e-books/",
+    "text": "NASA Aeronautics e-Books highlight groundbreaking research and innovations shaping the future of flight."
+  },
+  {
+    "title": "Amendment 9: F.10 PRISM Final Text and Due Dates - NASA Science",
+    "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-9-f-10-prism-final-text-and-due-dates/",
+    "text": "F.10 Payloads and Research Investigations on the Surface of the Moon (PRISM) solicits development and flight of a science-driven suite of instruments and"
+  },
+  {
+    "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations - NASA",
+    "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/",
+    "text": "The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions"
+  },
+  {
+    "title": "NASA Partnerships Allow Artificial Intelligence to Predict Solar Events - NASA",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/",
+    "text": "Exploring AI in space bolsters analytics software used in finance, manufacturing, and industry."
+  },
+  {
+    "title": "Helio Highlights: October 2025 - NASA Science",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/helio-highlights-october-2025/",
+    "text": "Since we all have a relationship with the Sun, it is important to learn about how it impacts our lives. NASA’s Heliophysics Education Activation Team (HEAT) teaches people of all ages about the Sun, covering everything from how to safely view an ecli"
+  },
+  {
+    "title": "Get Involved! - NASA Science",
+    "url": "https://science.nasa.gov/astrophysics/programs/exep/aas-links/",
+    "text": "Learn more about technosignatures and clouds. Dive deeper into specific planets:"
+  },
+  {
+    "title": "From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Spac",
+    "url": "https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/",
+    "text": "When you think about national park and public land astronomy programs, you might picture remote locations far from city lights. But a recent NASA Earth to Sky"
+  },
+  {
+    "title": "International Space Station: Launching NASA and Humanity into Deep Space - NASA",
+    "url": "https://www.nasa.gov/missions/station/iss-research/international-space-station-launching-nasa-and-humanity-into-deep-space/",
+    "text": "The advancements of modern civilization—from the electricity that powers our homes to basic hygienic breakthroughs that ensure our health— happened thanks to"
+  },
+  {
+    "title": "Pódcast en español de la NASA estrena su tercera temporada - NASA",
+    "url": "https://www.nasa.gov/es/podcast-en-espanol-de-la-nasa-estrena-su-tercera-temporada/",
+    "text": "Read this release in English here."
+  },
+  {
+    "title": "Las carreras en la NASA despegan con las pasantías - NASA",
+    "url": "https://www.nasa.gov/es/las-carreras-en-la-nasa-despegan-con-las-pasantias/",
+    "text": "¿Sueñas con trabajar para la NASA y contribuir a la exploración y la innovación en beneficio de la humanidad? Los programas de pasantías de la agencia ofrecen"
+  },
+  {
+    "title": "El X-59 de la NASA completa las pruebas electromagnéticas - NASA",
+    "url": "https://www.nasa.gov/es/el-x-59-de-la-nasa-completa-las-pruebas-electromagneticas/",
+    "text": "El silencioso avión supersónico de investigación X-59 de la NASA ha superado las pruebas electromagnéticas, confirmando que sus sistemas funcionarán juntos de"
+  },
+  {
+    "title": "Artemis Archives - NASA",
+    "url": "https://www.nasa.gov/blogs/artemis/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II - NASA",
+    "url": "https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/",
+    "text": "A partnership between NASA wind tunnel engineers, data visualization scientists, and software developers verified a quick, cost-effective solution to improve NASA’s Space Launch System rocket for the upcoming Artemis II mission. This will be the firs"
+  },
+  {
+    "title": "Avatars for Astronaut Health to Fly on NASA’s Artemis II - NASA Science",
+    "url": "https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/",
+    "text": "The AVATAR (A Virtual Astronaut Tissue Analog Response) investigation will use organ-on-a-chip devices, or organ chips, to study the effects of deep space radiation and microgravity on human health. The chips will contain cells from Artemis II astron"
+  },
+  {
+    "title": "NASA Shutdown Information - NASA",
+    "url": "https://www.nasa.gov/shutdown/",
+    "text": "THIS PAGE IS BEING UPDATED AS NEW INFORMATION IS RELEASED."
+  },
+  {
+    "title": "Crew Works Advanced Science Hardware and Conducts Lab Inspections - NASA",
+    "url": "https://www.nasa.gov/blogs/spacestation/2025/09/30/crew-works-advanced-science-hardware-and-conducts-lab-inspections/",
+    "text": "Space science hardware once again topped the schedule for the Expedition 73 crew aboard the International Space Station on Tuesday. Life support and electronics maintenance to keep the orbital outpost in tip-top shape filled the rest of the day for t"
+  },
+  {
+    "title": "NASA signs US-Australia Agreement on Aeronautics, Space Cooperation - NASA",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-signs-us-australia-agreement-on-aeronautics-space-cooperation/",
+    "text": "At the International Astronautical Congress (IAC) taking place in Sydney this week, representatives from the United States and Australia gathered to sign a"
+  },
+  {
+    "title": "NASA’s SunRISE Set to Launch in 2026 - NASA Science",
+    "url": "https://science.nasa.gov/blogs/sunrise/2025/09/30/nasas-sunrise-set-to-launch-in-2026/",
+    "text": "NASA is targeting a summer 2026 launch for its SunRISE (Sun Radio Interferometer Space Experiment) mission. The heliophysics mission will launch as a"
+  },
+  {
+    "title": "Hammering Out a Way to Find Shelter on the Moon and Mars - NASA Science",
+    "url": "https://science.nasa.gov/blogs/science-news/2025/09/26/hammering-out-shelter-on-moon-and-mars/",
+    "text": "With several hundred blows of a 10-pound (4.5-kilogram) sledgehammer, researchers tested a method to find subsurface caves that could serve as safe"
+  },
+  {
+    "title": "NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface - NASA",
+    "url": "https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
+    "text": "The NISAR (NASA-ISRO Synthetic Aperture Radar) Earth-observing radar satellite’s first images of our planet’s surface are in, and they offer a glimpse of"
+  },
+  {
+    "title": "NASA Web Privacy Policy and Important Notices - NASA",
+    "url": "https://www.nasa.gov/privacy/",
+    "text": "This notice provides NASA's policy regarding the nature, purpose, use and sharing of any information collected via this Web site. The information you provide"
+  },
+  {
+    "title": "Solar System Exploration",
+    "url": "https://science.nasa.gov/solar-system/overview/",
+    "text": "The solar system has one star, eight planets, five dwarf planets, at least 290 moons, more than 1.3 million asteroids, and about 3,900 comets."
+  },
+  {
+    "title": "Science Missions - NASA Science",
+    "url": "https://science.nasa.gov/science-missions/",
+    "text": "Our missions showcase the breadth and depth of NASA science."
+  },
+  {
+    "title": "NASA - YouTube",
+    "url": "https://www.youtube.com/@NASA",
+    "text": "NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.To do that, we have worked around the world—and ..."
+  },
+  {
+    "title": "Newsletters - NASA",
+    "url": "https://www.nasa.gov/nasa-newsletters/",
+    "text": "Centers and Facilities Aerospace FrontiersRead Online The latest accomplishments and activities from Glenn Research Center in Cleveland, Ohio Armstrong Flight"
+  },
+  {
+    "title": "Sitemap - NASA",
+    "url": "https://www.nasa.gov/sitemap/",
+    "text": "This is a placeholder."
+  },
+  {
+    "title": "NASA Media Contacts - NASA",
+    "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+    "text": "Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle"
+  },
+  {
+    "title": "NASA Web Privacy Policy and Important Notices - NASA",
+    "url": "https://www.nasa.gov/nasa-web-privacy-policy-and-important-notices/",
+    "text": "This notice provides NASA's policy regarding the nature, purpose, use and sharing of any information collected via this Web site. The information you provide"
+  },
+  {
+    "title": "FOIA Homepage - NASA",
+    "url": "https://www.nasa.gov/foia/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "No FEAR Act - NASA",
+    "url": "https://www.nasa.gov/no-fear-act/",
+    "text": "Section 201 of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (the No FEAR Act) requires Federal agencies to notify all"
+  },
+  {
+    "title": "Office of Inspector General - NASA OIG",
+    "url": "http://oig.nasa.gov/",
+    "text": "Federal Oversight for NASA"
+  },
+  {
+    "title": "Budgets, Plans and Reports - NASA",
+    "url": "https://www.nasa.gov/budgets-plans-and-reports/",
+    "text": "Main page for resources for NASA's annual budget request."
+  },
+  {
+    "title": "Agency Financial Reports - NASA",
+    "url": "https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/",
+    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+  },
+  {
+    "title": "Contact Page - NASA",
+    "url": "https://www.nasa.gov/contact-nasa/",
+    "text": "We encourage you to use the NASA website for finding the information you are seeking or the answers to your questions before submitting a request for"
+  },
+  {
+    "title": "Accessibility",
+    "url": "https://www.nasa.gov/accessibility/",
+    "text": "NASA is committed to accessibility in all of its websites and online services."
+  },
+  {
+    "title": "wikiHow: tutoriales en los que puedes confiar",
+    "url": "https://es.wikihow.com",
+    "text": "wikiHow es un proyecto colaborativo destinado a construir el manual de \"Cómo hacer...\" más grande del mundo. Nuestra misión es brindar instrucciones que sean útiles para ayudar a resolver los problemas de la vida."
+  },
+  {
+    "title": "wikiHow: Anleitungen denen du vertrauen kannst",
+    "url": "https://de.wikihow.com",
+    "text": "In wikiHow findest du Anleitungen zu fast allen Themen. Das Ziel unserer Wiki-Gemeinschaft ist es die größte, qualitativ hochwertigste und freie Sammlung von Anleitungen aufzubauen."
+  },
+  {
+    "title": "wikiHow : tutoriels fiables",
+    "url": "https://fr.wikihow.com",
+    "text": "wikiHow est un projet d'écriture collaboratif basé sur la technologie wiki afin de construire le plus grand manuel d'instruction de qualité au monde. Notre manuel multilingue est une source gratuite de d'instructions étape-par-étape sur comment faire"
+  },
+  {
+    "title": "wikiHow: guide passo passo su cui poter contare",
+    "url": "https://www.wikihow.it",
+    "text": "wikiHow, basato sul motore wiki, è il frutto del lavoro di milioni di collaboratori volontari provenienti da tutte le parti del mondo, che condividono l'obiettivo comune di costruire il \"Manuale del Come si Fa\" più vasto del pianeta. Il nostro manual"
+  },
+  {
+    "title": "Handleidingen waar je van op aan kunt",
+    "url": "https://nl.wikihow.com",
+    "text": "wikiHow is een wiki gebaseerde collaboratie om de werelds grootste, hoogste kwaliteitsvolle how to handleiding. Onze meertalige handleiding heeft gratis stap per stap instructies over hoe je bepaalde dingen kunt doen."
+  },
+  {
+    "title": "wikiHow: Bir şeyin nasıl yapılacağına ilişkin güvenebileceğin talimatlar",
+    "url": "https://www.wikihow.com.tr",
+    "text": "Dünyanın en popüler nasıl-yapılır sitesi olan wikiHow ile herhangi bir şeyin nasıl yapılacağını öğren. Her şey için kolay, adım adım, resimlendirilmiş talimatlar."
+  },
+  {
+    "title": "panduan yang dapat Anda percaya",
+    "url": "https://id.wikihow.com",
+    "text": "wikiHow adalah kolaborasi berbasis wiki yang bertujuan menciptakan panduan cara paling besar dan berkualitas di dunia. Panduan dalam berbagai bahasa yang kami miliki mengandung instruksi langkah demi langkah untuk melakukan berbagai macam hal secara "
+  },
+  {
+    "title": "wikiHow Experts",
+    "url": "https://www.wikihow.com/Experts",
+    "text": "Our mission at wikiHow is to provide our readers with the most helpful instructions anywhere, on any topic. To do this, we work with industry-leading experts to ensure that our content is accurate, up to date, and backed by current research. Working "
+  },
+  {
+    "title": "Contribute",
+    "url": "https://www.wikihow.com/wikiHow:Contribute",
+    "text": "Other amount:"
+  },
+  {
+    "title": "Pinterest",
+    "url": "https://www.pinterest.com/wikihow/_created/",
+    "text": "Discover recipes, home ideas, style inspiration and other ideas to try."
+  },
+  {
+    "title": "TikTok - Make Your Day",
+    "url": "https://www.tiktok.com/@wikihow?lang=en",
+    "text": "https://www.tiktok.com/@wikihow?lang=en"
+  },
+  {
+    "title": "wikiHow - YouTube",
+    "url": "https://www.youtube.com/wikihow",
+    "text": "wikiHow to do anything! wikiHow offers 390,000+ free step-by-step articles on how to do anything, from the ordinary to the extraordinary, in 19 languages! Ch..."
+  },
+  {
+    "title": "Newsletters",
+    "url": "https://www.wikihow.com/Newsletters",
+    "text": "Get wikiHow tips, how-tos, and more free content right in your inbox."
+  },
+  {
+    "title": "Login required - Collab",
+    "url": "https://collab.wikimedia.org/wiki/Fundraising/Donatewiki_documentation",
+    "text": "Return to Main Page."
+  },
+  {
+    "title": "Wikimedia Foundation Privacy Policy - Wikimedia Foundation Governance Wiki",
+    "url": "https://foundation.wikimedia.org/wiki/Project:Privacy_policy",
+    "text": "It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any Wikimedia project."
+  },
+  {
+    "title": "Wikimedia:About - Wikimedia Foundation Governance Wiki",
+    "url": "https://foundation.wikimedia.org/wiki/Project:About",
+    "text": "This wiki does not exactly follow the same rules as the other Wikimedia projects, since it is not open to all for editing, and in case of disagreement, the mechanism for making decisions will be handled by the Wikimedia Foundation staff or Board of T"
+  },
+  {
+    "title": "Policy:Wikimedia General Disclaimer - Wikimedia Foundation Governance Wiki",
+    "url": "https://foundation.wikimedia.org/wiki/Project:General_disclaimer",
+    "text": "This is an informational website of the Wikimedia Foundation (hereafter \"Wikimedia\"). The content of this site is being provided freely, and no kind of agreement or contract is created between you and the owners or users of this site, the owners of t"
+  },
+  {
+    "title": "Discover and build Wikimedia technology - Wikimedia Developer Portal",
+    "url": "https://developer.wikimedia.org",
+    "text": "Find technical documentation, and connect with Wikimedia developer communities."
+  },
+  {
+    "title": "Wikistats - Statistics For Wikimedia Projects",
+    "url": "https://stats.wikimedia.org/#/donate.wikimedia.org",
+    "text": "Statistics for Wikimedia Projects: Wikipedia, Commons, Wikidata, Wikivoyage, Wiktionary, Wikibooks, Wikinews, Wikiquote, Wikiversity"
+  },
+  {
+    "title": "Wikimedia",
+    "url": "https://www.wikimedia.org/",
+    "text": "The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely."
+  },
+  {
+    "title": "MediaWiki",
+    "url": "https://www.mediawiki.org/",
+    "text": "The MediaWiki software is used by tens of thousands of websites and thousands of companies and organisations. It powers Wikipedia and also this website. MediaWiki helps you collect and organise knowledge and make it available to people. It's powerful"
+  },
+  {
+    "title": "Make your donation now - Wikimedia Foundation",
+    "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+    "text": "Donate to the Wikimedia Foundation, the nonprofit that hosts Wikipedia and other crucial free knowledge projects. Each year, the generosity of the 2% of readers who donate allows us to expand the reach of Wikipedia and its sister projects. Our goal i"
+  },
+  {
+    "title": "قائمة تطبيقات ويكيبيديا للهاتف - ويكيبيديا",
+    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D9%84%D9%84%D9%87%D8%A7%D8%AA%D9%81",
+    "text": "تعديل - تعديل مصدري - تعديل ويكي بيانات"
+  },
+  {
+    "title": "Seznam mobilních aplikací Wikipedie – Wikipedie",
+    "url": "https://cs.wikipedia.org/wiki/Seznam_mobiln%C3%ADch_aplikac%C3%AD_Wikipedie",
+    "text": "Řada organizací v rámci hnutí Wikimedia, včetně Wikimedia Foundation, vydává mobilní aplikace pro používání Wikipedie v operačních systémech pro mobilní zařízení. Všechny jsou k dispozici zdarma prostřednictvím příslušného obchodu s aplikacemi (např."
+  },
+  {
+    "title": "فهرست برنامه‌های کاربردی موبایل ویکی‌پدیا - ویکی‌پدیا، دانشنامهٔ آزاد",
+    "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C_%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84_%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7",
+    "text": "تعدادی از سازمان‌های جنبش ویکی‌مدیا از جمله بنیاد ویکی‌مدیا، اپ موبایل را برای استفاده از ویکی‌پدیا در سیستم عامل‌های دستگاه همراه منتشر می‌کنند. همه برنامه‌ها از طریق فروشگاه اپلیکیشن (به عنوان مثال گوگل پلی، اپ استور، فروشگاه مایکروسافت) به‌صورت را"
+  },
+  {
+    "title": "Daftar aplikasi seluler Wikipedia - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+    "url": "https://id.wikipedia.org/wiki/Daftar_aplikasi_seluler_Wikipedia",
+    "text": "Gerakan Wikimedia diselenggarakan oleh berbagai organisasi khususnya Yayasan Wikimedia. Salah satu rangka upayanya adalah dengan menerbitkan aplikasi Wikipedia resmi untuk perangkat seluler. Aplikasi ini tersedia gratis di berbagai toko aplikasi, sep"
+  },
+  {
+    "title": "Lista di applicazioni mobile di Wikipedia - Wikipedia",
+    "url": "https://it.wikipedia.org/wiki/Lista_di_applicazioni_mobile_di_Wikipedia",
+    "text": "Una serie di organizzazioni all'interno del movimento Wikimedia, inclusa Wikimedia Foundation, pubblicano applicazioni mobile ufficiali per consultare Wikipedia sui diversi sistemi operativi dei dispositivi mobili. Tutte le applicazioni sono disponib"
+  },
+  {
+    "title": "Orodha ya programu za simu za Wikipedia - Wikipedia, kamusi elezo huru",
+    "url": "https://sw.wikipedia.org/wiki/Orodha_ya_programu_za_simu_za_Wikipedia",
+    "text": "Idadi kubwa ya mashirika ndani ya Wikimedia Movement ikiwemo Wikimedia Foundation imechapisha programu tumizi rasmi ya kutumia kwenye mifumo ya simu kwa ajili ya Wikipedia. Ambazo zote zinapatikana bure kupitia maduka ya programu sahihi (kama App sto"
+  },
+  {
+    "title": "വിക്കിപീഡിയ മൊബൈൽ ആപ്ലിക്കേഷനുകളുടെ പട്ടിക - വിക്കിപീഡിയ",
+    "url": "https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF_%E0%B4%AE%E0%B5%8A%E0%B4%AC%E0%B5%88%E0%B5%BD_%E0%B4%86%E0%B4%AA%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%87%E0%B4%B7%E0%B4%A8%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95",
+    "text": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ ഉൾപ്പെടെ വിക്കിമീഡിയ പ്രസ്ഥാനത്തിനുള്ളിലെ നിരവധി സംഘടനകൾ വിക്കിപീഡിയയിലേക്കുള്ള മൊബൈൽ ആക്‌സസ്സിനായി ഔദ്യോഗിക മൊബൈൽ ആപ്ലിക്കേഷനുകൾ പ്രസിദ്ധീകരിക്കുന്നു. എല്ലാം ഉചിതമായ ആപ്പ് സ്റ്റോർ വഴി ലഭ്യമാണ് (ഉദാ Google Play, App Store, Micros"
+  },
+  {
+    "title": "Senarai aplikasi mudah alih Wikipedia - Wikipedia Bahasa Melayu, ensiklopedia bebas",
+    "url": "https://ms.wikipedia.org/wiki/Senarai_aplikasi_mudah_alih_Wikipedia",
+    "text": "Beberapa organisasi dalam pergerakan Wikimedia termasuk Yayasan Wikimedia menerbitkan aplikasi mudah alih rasmi untuk menggunakan Wikipedia pada sistem pengendalian peranti mudah alih. Semua boleh didapati secara percuma melalui kedai aplikasi sesuai"
+  },
+  {
+    "title": "ウィキペディアのモバイルアプリケーション一覧 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%80%E8%A6%A7",
+    "text": "ウィキペディアのモバイルアプリケーション一覧（ウィキペディアのモバイルアプリケーションいちらん）とは、携帯機器向けオペレーティングシステムでウィキペディアを閲覧するためのアプリケーションソフトウェアの一覧である。"
+  },
+  {
+    "title": "Vikipediya mobil ilovalari roʻyxati - Vikipediya",
+    "url": "https://uz.wikipedia.org/wiki/Vikipediya_mobil_ilovalari_ro%CA%BByxati",
+    "text": "Wikimedia Foundation mobil qurilma operatsion tizimlarida Vikipediyadan foydalanish uchun rasmiy nashrlarni nashr etadi, jumladan Wikimedia Foundation jamgʻarmasi ham. Bularning barchasi tegishli (masalan, Google Play, App Store, Windows Store) orqal"
+  },
+  {
+    "title": "List of Wikipedia mobile applications - Simple English Wikipedia, the free encyclopedia",
+    "url": "https://simple.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications",
+    "text": "Wikipedia apps from the Wikimedia Foundation are called \"Wikipedia\"."
+  },
+  {
+    "title": "விக்கிப்பீடியா அலைபேசி செயலிகளின் பட்டியல் - தமிழ் விக்கிப்பீடியா",
+    "url": "https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE_%E0%AE%85%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF_%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D",
+    "text": "விக்கிமீடியா அறக்கட்டளை உட்பட விக்கிமீடியா இயக்கத்திற்குள் உள்ள பல நிறுவனங்கள் கைபேசி சாதன இயக்க முறைமைகளில் விக்கிபீடியாவைப் பயன்படுத்துவதற்கான அதிகாரப்பூர்வ கைபேசி பயன்பாடுகளை வெளியிடுகின்றன. இந்த அனைத்து செயலிகளும் பொருத்தமான செயலிக் கூடங்கள் வழிய"
+  },
+  {
+    "title": "Danh sách ứng dụng di động Wikipedia – Wikipedia tiếng Việt",
+    "url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%E1%BB%A9ng_d%E1%BB%A5ng_di_%C4%91%E1%BB%99ng_Wikipedia",
+    "text": "Quỹ Wikimedia phát hành các ứng dụng di động Wikipedia chính thức để sử dụng Wikipedia trên nhiều hệ điều hành thiết bị di động. Tất cả đều được phân phối miễn phí qua các cửa hàng ứng dụng chính thức: Android (qua Google Play), iOS (qua App Store), "
+  },
+  {
+    "title": "GitHub - wikimedia/apps-android-wikipedia: 📱The official Wikipedia app for Android!",
+    "url": "https://github.com/wikimedia/apps-android-wikipedia",
+    "text": "📱The official Wikipedia app for Android! Contribute to wikimedia/apps-android-wikipedia development by creating an account on GitHub."
+  },
+  {
+    "title": "GitHub - wikimedia/wikipedia-ios: 📱The official Wikipedia iOS app.",
+    "url": "https://github.com/wikimedia/wikipedia-ios",
+    "text": "📱The official Wikipedia iOS app. Contribute to wikimedia/wikipedia-ios development by creating an account on GitHub."
+  },
+  {
+    "title": "Wikimedia Open Source",
+    "url": "https://doc.wikimedia.org/#apps",
+    "text": "The collaborative editing engine that runs Wikipedia."
+  },
+  {
+    "title": "‎Kiwix on the App Store",
+    "url": "https://apps.apple.com/us/app/kiwix/id997079563",
+    "text": "Access the world's knowledge offline with Kiwix! Download free educational content once and browse it anytime, anywhere - no internet connection needed. Kiwix u…"
+  },
+  {
+    "title": "Kiwix JS - Download e instalação gratuitos no Windows | Microsoft Store",
+    "url": "https://www.microsoft.com/store/apps/9P8SLZ4J979J",
+    "text": "Version 3.7.7-3.7.8 [10-Oct-25] Kiwix JS is your gateway to a world of knowledge, even when the Internet is out of reach! This app is designed to empower you with information, no matter where you are. To get started, simply download a FREE content ar"
+  },
+  {
+    "title": "Kiwix Downloads",
+    "url": "https://web.archive.org/web/20181220175523/http://www.kiwix.org/downloads/",
+    "text": "Download the free Kiwix app for your operating system plus free content packages (ZIM files) of your choice."
+  },
+  {
+    "title": "Kiwix | F-Droid - Free and Open Source Android App Repository",
+    "url": "https://web.archive.org/web/20200707150551/https://f-droid.org/packages/org.kiwix.kiwixmobile/",
+    "text": "© 2010-2020 F-Droid Limited and Contributors"
+  },
+  {
+    "title": "Kiwix : navigateur Wikipédia hors ligne – Adoptez cette extension pour 🦊 Firefox (fr)",
+    "url": "https://addons.mozilla.org/fr/firefox/addon/kiwix-offline/",
+    "text": "Télécharger Kiwix : navigateur Wikipédia hors ligne pour Firefox. Kiwix est une solution hors ligne qui vous permet d'accéder à des contenus éducatifs tels que Wikipédia, Wiktionnaire, Stack Exchange, TED Talks et bien d'autres à partir de n'importe "
+  },
+  {
+    "title": "Kiwix JS Browser Extension - Chrome Web Store",
+    "url": "https://chrome.google.com/webstore/detail/kiwix/donaljnlmapmngakoipdmehbfcioahhk",
+    "text": "Kiwix is an offline reader for content from Wikipedia, TED Talks, Stackexchange, and many other sources."
+  },
+  {
+    "title": "WikiOnBoard",
+    "url": "https://cip.github.io/WikiOnBoard/",
+    "text": "WikiOnBoard is a mobile phone app which allows reading the Wikipedia without internet connection."
+  },
+  {
+    "title": "‎WikiMed on the App Store",
+    "url": "https://apps.apple.com/us/app/wikimed/id1281693200",
+    "text": "With 51,000+ medical articles, Wikimed is the largest and most comprehensive collection of health-related articles available. It includes content on diseases, m…"
+  },
+  {
+    "title": "WikiMed by Kiwix - Download e instalação gratuitos no Windows | Microsoft Store",
+    "url": "https://www.microsoft.com/store/apps/9PHJSNP1CZ8J",
+    "text": "Version 3.7.5-3.7.6 [2-Sep-25]: With 67,000+ medical articles, WikiMed Offline Medical Wikpedia is the largest and most comprehensive collection of health-related articles available. It includes content on diseases, medication, anatomy, and sanitatio"
+  },
+  {
+    "title": "WikiNodes for iPad on the iTunes App Store",
+    "url": "https://web.archive.org/web/20110527140210/http://itunes.apple.com/us/app/wikinodes/id433834594",
+    "text": "Learn more, read reviews, and download WikiNodes by IDEA.org on the iTunes App Store."
+  },
+  {
+    "title": "Wikiwand: Faster Wikipedia Reader on the App Store on iTunes",
+    "url": "https://web.archive.org/web/20150317223403/https://itunes.apple.com/app/wikiwand-faster-wikipedia-reader/id947444965",
+    "text": "Read reviews, get customer ratings, see screenshots, and learn more about Wikiwand: Faster Wikipedia Reader on the App Store. Download Wikiwand: Faster Wikipedia Reader and enjoy it on your iPhone, iPad, and iPod touch."
+  },
+  {
+    "title": "Wikiweb: Visual Wikipedia™ Reader on the App Store on iTunes",
+    "url": "https://web.archive.org/web/20150621012222/https://itunes.apple.com/us/app/wikiweb-visual-wikipedia-reader/id499345601",
+    "text": "Read reviews, get customer ratings, see screenshots, and learn more about Wikiweb: Visual Wikipedia™ Reader on the App Store. Download Wikiweb: Visual Wikipedia™ Reader and enjoy it on your iPhone, iPad, and iPod touch."
+  },
+  {
+    "title": "GitHub - commons-app/apps-android-commons: The Wikimedia Commons Android app allows users to upload ",
+    "url": "https://github.com/commons-app/apps-android-commons",
+    "text": "The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons - commons-app/apps-android-commons"
+  },
+  {
+    "title": "Index of /mobile",
+    "url": "https://releases.wikimedia.org/mobile",
+    "text": "https://releases.wikimedia.org/mobile"
+  },
+  {
+    "title": "You can now edit articles, view random pages on the Android Wikipedia app",
+    "url": "https://www.engadget.com/2014-06-25-new-wikipedia-app-android.html",
+    "text": "Wikipedia already has an app, but get ready to meet its replacement. Available on Android starting today, the app's not just an aesthetic refresh; it adds the ability to edit entries directly from your mobile device. For those of us who use Wikipedia"
+  },
+  {
+    "title": "Wikipédia",
+    "url": "https://galaxystore.samsung.com/detail/org.wikipedia",
+    "text": "Aplicação oficial Wikipédia para Android. A Wikipédia é uma enciclopédia livre que contém mais de 32 milhões de artigos em 280 idiomas, sendo a referência mais abrangente compilada por trabalho hum..."
+  },
+  {
+    "title": "Wikipedia - APK Download for Android | Aptoide",
+    "url": "https://wikipedia.en.aptoide.com/app",
+    "text": "Download Wikipedia 2.7.50552-r-2025-10-15 APK for Android right now. No extra costs. User ratings for Wikipedia: 4.65 ★"
+  },
+  {
+    "title": "Download Wikipedia App for Android | Bazaar",
+    "url": "https://cafebazaar.ir/app/org.wikipedia?l=en",
+    "text": "The official app for Wikipedia, the world’s largest source of information."
+  },
+  {
+    "title": "No Title",
+    "url": "https://www.getjar.com/categories/entertainment-apps/more/Wikipedia-Pro-735624",
+    "text": "Official Wikipedia App for Android. Wikipedia is the free encyclopedia containing more than 20 million articles in 280 languages, and is the most comprehensive and widely used reference work humans have ever compiled. Features: Save article to read l"
+  },
+  {
+    "title": "Wikipedia Is The Latest Place To Join The Daily Gaming Craze - Kotaku",
+    "url": "https://kotaku.com/wikipedia-game-wordle-new-york-times-daily-puzzles-1851784815",
+    "text": "Following The New York Times , The Washington Post and The Atlantic , the online encyclopedia now has daily activities"
+  },
+  {
+    "title": "Wikipedia introduces a daily quiz game for Android users",
+    "url": "https://www.yahoo.com/lifestyle/articles/wikipedia-introduces-daily-quiz-game-164825695.html",
+    "text": "Jumping on the game craze with a quiz for history buffs."
+  },
+  {
+    "title": "iPhone App of the Week: Wikipedia Mobile - SmartCompany",
+    "url": "https://web.archive.org/web/20181226132909/https://www.smartcompany.com.au/startupsmart/news-analysis/local/iphone-app-of-the-week-wikipedia-mobile/",
+    "text": "Wikipedia is one of the best resources around – if you ever need to research a topic, it’s a great way to start and is sure to give you a few sources to begin."
+  },
+  {
+    "title": "Wikipedia Revamps iOS App With Mobile Editing | PCMag",
+    "url": "https://www.pcmag.com/news/wikipedia-revamps-ios-app-with-mobile-editing",
+    "text": "No more waiting until you get home to correct the error you spotted in the \"Atlantic puffin\" article."
+  },
+  {
+    "title": "New Wikipedia app for iOS (and an update for our Android App) – Diff",
+    "url": "https://diff.wikimedia.org/2012/04/05/new-wikipedia-app-for-ios-and-an-update-for-our-android-app/",
+    "text": "We launched the official Wikipedia application for Android almost two months ago and the response has been tremendous. We’ve had ~2.25 million installations and ~5000 ratings (with a 4.4/5.0 average). Preliminary reports also indicate about 23 millio"
+  },
+  {
+    "title": "Wikipedia is available on the KaiOS, bringing a wealth of knowledge right to your fingertips. - KaiO",
+    "url": "https://www.kaiostech.com/wikipedia-is-available-on-the-kaios-bringing-a-wealth-of-knowledge-right-to-your-fingertips/",
+    "text": "Wikipedia is available on the KaiOS, bringing a wealth of knowledge right to your fingertips. Thanks to Y9 Microfinance Bank, you can access this amazing resource through consumer finance."
+  },
+  {
+    "title": "WikiNodes Brings A New Perspective To Knowledge | 148 Apps",
+    "url": "http://www.148apps.com/news/wikinodes-brings-perspective-knowledge/",
+    "text": "To a whole generation of computer and internet users Wikipedia has become the wellspring of information that has all of the answers, both right and wrong. Everything from current events to obscure facts can be found on the service, and all at no cost"
+  },
+  {
+    "title": "WikiNodes for iPad – Making Wikipedia Fun to Explore | iPad Insight",
+    "url": "https://web.archive.org/web/20121013124347/http://ipadinsight.com/ipad-app-reviews/wikinodes-for-ipad-making-wikipedia-fun-to-explore/",
+    "text": "WikiNodes is a new iPad app that offers a lively new approach to working with Wikipedia. As the name might suggest, it uses nodes to represent articles and to"
+  },
+  {
+    "title": "WikiNodes for iPad | iPad App Finders",
+    "url": "https://web.archive.org/web/20120325202256/http://ipad.appfinders.com/wikinodes-for-ipad/",
+    "text": "Wikipedia is a a huge database of information one can take advantage of to learn about any topic. In fact, there are so many articles available in on Wikipedia"
+  },
+  {
+    "title": "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more | Mashable",
+    "url": "http://mashable.com/2015/03/07/5-cant-miss-apps-imgur/",
+    "text": "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more"
+  },
+  {
+    "title": "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more",
+    "url": "https://web.archive.org/web/20150621022217/http://mashable.com/2015/03/07/5-cant-miss-apps-imgur/",
+    "text": "This week's list includes Imgur's redesigned app, an Android app to take better selfies and one of the most beautiful Wikipedia apps we've seen yet."
+  },
+  {
+    "title": "WikiWand Makes Wikipedia Beautiful",
+    "url": "https://thenextweb.com/apps/2014/08/19/wikiwand-makes-wikipedia-beautiful/",
+    "text": "Wikipedia is one of the Web’s most visited properties. From quantum mechanics to Laurel and Hardy, the online encyclopedia delivers good primers on just about any topic you can think of. But doesn’t the interface sometimes feel as though it"
+  },
+  {
+    "title": "WikiWand Makes Wikipedia Beautiful",
+    "url": "https://web.archive.org/web/20231127173732/https://thenextweb.com/news/wikiwand-makes-wikipedia-beautiful",
+    "text": "Wikipedia is one of the Web’s most visited properties. From quantum mechanics to Laurel and Hardy, the online encyclopedia delivers good primers on just about any topic you can think of. But doesn’t the interface sometimes feel as though it"
+  },
+  {
+    "title": "Wikiwand arrives on iPhone to help make Wikipedia beautiful | VentureBeat | Mobile | by Paul Sawers",
+    "url": "https://web.archive.org/web/20150621102319/https://venturebeat.com/2015/03/05/wikiwand-arrives-on-iphone-to-help-make-wikipedia-beautiful/",
+    "text": "Wikiwand, the startup funded to the tune of $600,000 to build a beautiful alternative to the main Wikipedia app, has launched its first native mobile client, kicking off on iPhone."
+  },
+  {
+    "title": "The Best Tools to Improve Your Wikipedia Experience | PCMag",
+    "url": "https://www.pcmag.com/article/351839/the-best-tools-to-improve-your-wikipedia-experience",
+    "text": "Wikipedia is not always easy to navigate. These sites and apps make it easier to use."
+  },
+  {
+    "title": "Wikiweb: A Beautiful iOS Wikipedia App",
+    "url": "https://thenextweb.com/apps/2012/07/14/wikiweb-a-beautiful-ios-wikipedia-app-that-lets-you-visualize-connections-between-articles/",
+    "text": "Wikipedia may have been one of the Web’s most recognizable brands for years, but it sure took its time to roll-out an official Android app, finally launching on Google’s mobile OS in January this year. However, an iOS app has been available"
+  },
+  {
+    "title": "Wikiweb app makes wasting time on Wikipedia even easier | The Verge",
+    "url": "https://www.theverge.com/2012/7/18/3167757/wikiweb-ios-app-wikipedia",
+    "text": "Available now through iTunes, Wikiweb lets you create a “web” of Wikipedia entries by linking related articles, instantly decreasing work productivity."
+  },
+  {
+    "title": "Wikimedia Apps - MediaWiki",
+    "url": "https://www.mediawiki.org/wiki/Wikimedia_Apps",
+    "text": "For general questions about the team's Wikipedia apps, see:"
+  },
+  {
+    "title": "Reading/Web/Mobile - MediaWiki",
+    "url": "https://www.mediawiki.org/wiki/Reading/Web/Mobile",
+    "text": "The Foundation's reading team evolved from a team called the mobile web team."
+  },
+  {
+    "title": "Wikistats - Statistics For Wikimedia Projects",
+    "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+    "text": "Statistics for Wikimedia Projects: Wikipedia, Commons, Wikidata, Wikivoyage, Wiktionary, Wikibooks, Wikinews, Wikiquote, Wikiversity"
+  },
+  {
+    "title": "Apple",
+    "url": "https://www.apple.com/",
+    "text": "All out Pro."
+  },
+  {
+    "title": "Apple Store Online - Apple",
+    "url": "https://www.apple.com/us/shop/goto/store",
+    "text": "Shop the latest Apple products, accessories and offers. Compare models, get expert shopping help, plus flexible payment and delivery options."
+  },
+  {
+    "title": "Mac - Apple",
+    "url": "https://www.apple.com/mac/",
+    "text": "The most powerful Mac laptops and desktops ever. Supercharged by Apple silicon. MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, and Mac Pro."
+  },
+  {
+    "title": "iPad - Apple",
+    "url": "https://www.apple.com/ipad/",
+    "text": "Explore every iPad. Featuring iPad Pro, iPad Air, iPad mini, and iPad. For work, creativity, or play."
+  },
+  {
+    "title": "iPhone - Apple",
+    "url": "https://www.apple.com/iphone/",
+    "text": "Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.* Shop iPhoneGet credit when you trade in your curre"
+  },
+  {
+    "title": "Apple Watch - Apple",
+    "url": "https://www.apple.com/watch/",
+    "text": "Get 3 months of Apple Fitness+ when you buy any Apple Watch.1 Shop Apple Watch"
+  },
+  {
+    "title": "Apple Vision Pro - Apple",
+    "url": "https://www.apple.com/apple-vision-pro/",
+    "text": "Stream Wolfs on Apple TV+ with a subscription"
+  },
+  {
+    "title": "AirPods - Apple",
+    "url": "https://www.apple.com/airpods/",
+    "text": "Buy AirPods Pro 3 and get 3 months of Apple Fitness+* and Apple Music** free. Buy"
+  },
+  {
+    "title": "TV & Home - Apple",
+    "url": "https://www.apple.com/tv-home/",
+    "text": "HomePod"
+  },
+  {
+    "title": "Entertainment - Services - Apple",
+    "url": "https://www.apple.com/entertainment/",
+    "text": "Award‑winning movies. Binge‑worthy shows. Your favorite music mastered in Spatial Audio. The most epic collection of mobile games. And the world’s largest library of 4K Ultra HD fitness content. The best entertainment and experiences live here — only"
+  },
+  {
+    "title": "Apple Accessories for Apple Watch, iPhone, iPad, Mac and Vision Pro - Apple",
+    "url": "https://www.apple.com/us/shop/goto/buy_accessories",
+    "text": "Shop Apple accessories for Apple Watch, iPhone, iPad, Mac, and Vision Pro. Search by product lines or browse by categories. Buy now with fast, free shipping."
+  },
+  {
+    "title": "Official Apple Support",
+    "url": "https://support.apple.com/?cid=gn-ols-home-hp-tab",
+    "text": "Learn more about popular features and topics, and find resources that will help you with all of your Apple products."
+  },
+  {
+    "title": "Apple Store Search Results - Apple",
+    "url": "https://www.apple.com/us/search",
+    "text": "Apple Store Search Results"
+  },
+  {
+    "title": "Bag - Apple",
+    "url": "https://www.apple.com/us/shop/goto/bag",
+    "text": "Bag"
+  },
+  {
+    "title": "App Store - Apple",
+    "url": "https://www.apple.com/ios/app-store/",
+    "text": "For over a decade, the App Store has proved to be a safe and trusted place to discover and download apps. But the App Store is more than just a storefront — it’s an innovative destination focused on bringing you amazing experiences. And a big part of"
+  },
+  {
+    "title": "‎Wikimedia Foundation Apps on the App Store",
+    "url": "https://apps.apple.com/us/developer/wikimedia-foundation/id324715241",
+    "text": "Download apps by Wikimedia Foundation, including Wikipedia."
+  },
+  {
+    "title": "‎Top iPhone Reference apps on the App Store - Apple",
+    "url": "https://apps.apple.com/us/charts/iphone/reference-apps/6006",
+    "text": "Explore top iPhone Reference apps on the App Store, like Bible Chat: Daily Devotional, Knot IQ - The Bear Essentials, and more."
+  },
+  {
+    "title": "Wikimedia Foundation Privacy Policy - Wikimedia Foundation Governance Wiki",
+    "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+    "text": "It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any Wikimedia project."
+  },
+  {
+    "title": "‎Learn More About App Privacy : App Store Story",
+    "url": "https://apps.apple.com/story/id1538632801",
+    "text": "Learn about Learn More About App Privacy on Mac App Store. Download Learn More About App Privacy and enjoy it on your iPhone, iPad, and Mac."
+  },
+  {
+    "title": "‎iPhone Top Charts on the App Store - Apple",
+    "url": "https://itunes.apple.com/us/genre/id6006",
+    "text": "Find and download top apps and games for iPhone on the App Store."
+  },
+  {
+    "title": "‎Age Ratings : App Store Story",
+    "url": "https://apps.apple.com/us/story/id1825160725",
+    "text": "Learn about Age Ratings on Mac App Store. Download Age Ratings and enjoy it on your iPhone, iPad, and Mac."
+  },
+  {
+    "title": "Wikimedia Apps/Team/iOS - MediaWiki",
+    "url": "https://m.mediawiki.org/wiki/Wikimedia_Apps/Team/iOS",
+    "text": "This page contains information and links specific to the iOS team and codebase."
+  },
+  {
+    "title": "Wikimedia Apps/iOS FAQ - MediaWiki",
+    "url": "https://www.mediawiki.org/wiki/Wikimedia_Apps/iOS_FAQ",
+    "text": "The app is available in Apple's App Store worldwide."
+  },
+  {
+    "title": "‎DailyArt on the App Store",
+    "url": "https://apps.apple.com/us/app/dailyart/id547982045",
+    "text": "DailyArt is the #1 app to learn about art history. Every day, get inspired by beautiful classic, modern, and contemporary art masterpieces and read short storie…"
+  },
+  {
+    "title": "‎NASA on the App Store",
+    "url": "https://apps.apple.com/us/app/nasa/id334325516",
+    "text": "The redesigned NASA App unlocks access to the new NASA+ video streaming service, plus all the latest NASA images, news, mission information, podcasts, and inter…"
+  },
+  {
+    "title": "‎TED Talks: Watch and Learn on the App Store",
+    "url": "https://apps.apple.com/us/app/ted-talks-watch-and-learn/id376183339",
+    "text": "Get personalized recommendations that match your unique interests, or browse TED’s library of thousands of inspiring, informative, transformational videos for f…"
+  },
+  {
+    "title": "‎Google Arts & Culture on the App Store",
+    "url": "https://apps.apple.com/us/app/google-arts-culture/id1050970557",
+    "text": "Are you curious about what Van Gogh’s Starry Night looks like up close? Have you ever toured the ancient Maya temples or met the inspirational figures of Black…"
+  },
+  {
+    "title": "‎Merriam-Webster Dictionary on the App Store",
+    "url": "https://apps.apple.com/us/app/merriam-webster-dictionary/id399452287",
+    "text": "Get America's most useful and respected dictionary, optimized for your iPhone, iPad, and Apple Watch. Continuously updated with the newest words and meanings, t…"
+  },
+  {
+    "title": "Legal - Internet Services - Apple",
+    "url": "https://www.apple.com/legal/internet-services/",
+    "text": "Learn the terms and policies that apply to various Apple online features and services."
+  },
+  {
+    "title": "Legal - App Store & Privacy- Apple",
+    "url": "https://www.apple.com/legal/privacy/data/en/app-store",
+    "text": "https://www.apple.com/legal/privacy/data/en/app-store"
+  },
+  {
+    "title": "Legal - Use of Cookies - Apple",
+    "url": "https://www.apple.com/privacy/use-of-cookies/",
+    "text": "https://www.apple.com/privacy/use-of-cookies/"
+  },
+  {
+    "title": "Subscriptions and Billing - Official Apple Support",
+    "url": "https://support.apple.com/billing",
+    "text": "Find the answers you need about buying and paying for apps, music, movies, books and more."
+  },
+  {
+    "title": "Apple Store - Find a Store - Apple",
+    "url": "https://www.apple.com/retail/",
+    "text": "Find an Apple Store and shop for Mac, iPhone, iPad, Apple Watch, and more. Sign up for Today at Apple programs. Or get support at the Genius Bar."
+  },
+  {
+    "title": "Choose your country or region - Apple",
+    "url": "https://www.apple.com/choose-country-region/",
+    "text": "https://www.apple.com/choose-country-region/"
+  },
+  {
+    "title": "Legal - Privacy Policy - Apple",
+    "url": "https://www.apple.com/legal/privacy/",
+    "text": "Apple is committed to your privacy. Read our customer Privacy Policy for a clear explanation of how we collect, use, disclose, transfer, and store your information."
+  },
+  {
+    "title": "Legal - Website Terms of Use - Apple",
+    "url": "https://www.apple.com/legal/internet-services/terms/site.html",
+    "text": "Legal Information & Notices"
+  },
+  {
+    "title": "Apple - Legal - Sales Policies - U.S. Retail Sales",
+    "url": "https://www.apple.com/us/shop/goto/help/sales_refunds",
+    "text": "By placing an order or making a purchase at an Apple Store, you agree to the terms below, along with Apple’s Privacy Policy and Terms of Use."
+  },
+  {
+    "title": "Apple - Legal",
+    "url": "https://www.apple.com/legal/",
+    "text": "Find legal information and resources for Apple products and services."
+  },
+  {
+    "title": "Site Map - Apple",
+    "url": "https://www.apple.com/sitemap/",
+    "text": "https://www.apple.com/sitemap/"
+  },
+  {
+    "title": "Mozilla Support",
+    "url": "https://support.mozilla.org/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources",
+    "text": "Popular Searches:"
+  },
+  {
+    "title": "Add-ons for Firefox (en-US)",
+    "url": "https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources",
+    "text": "Download Firefox extensions and themes. They’re like apps for your browser. They can block annoying ads, protect passwords, change browser appearance, and more."
+  },
+  {
+    "title": "Firefox - YouTube",
+    "url": "https://www.youtube.com/@firefox/podcasts?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources",
+    "text": "Firefox helps you stay in control and in the know on the web. New videos every Monday, Wednesday, and Friday."
+  },
+  {
+    "title": "Firefox support for Windows 7, 8, and 8.1 | Firefox Help",
+    "url": "https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support",
+    "text": "Firefox version 115 ESR will be the last supported release for Windows 7, 8 and 8.1."
+  }
+]
